@@ -11,15 +11,15 @@ To get this pack to work, simply drop it into (wherever you have taco located)\T
 Pack is currently WIP and does not yet contain all regions. 
 
 - Seitung
--- Map Completion Route
--- Mastery Route
--- JP Routes
--- Some Achievement Routes
+  - Map Completion Route
+  - Mastery Route
+  - JP Routes
+  - Some Achievement Routes
 - Kaineng
--- Map Completion Route
--- Mastery Route
--- JP Route
--- One Achievement Route
+  - Map Completion Route
+  - Mastery Route
+  - JP Route
+  - One Achievement Route
 - Echovald has not been started
 - Dragon's End has not been started
 
