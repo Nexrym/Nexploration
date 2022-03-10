@@ -1,4 +1,4 @@
-# Welcome to Dragon 'Nex'ploration! 
+# Welcome to End of Dragons 'Nex'ploration! 
 
 I'm currently working on creating a set of trails through all of Cantha to aid in map completion, aquiring mastery points, JP's, as well as a few achievement points.
 
