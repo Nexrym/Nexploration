@@ -30,3 +30,5 @@ Shoutout to xrandox (xTeh.7146) for creating TehsTrails and having well document
 ### Credits
 
 Made by Nex.2456
+
+Any art assets belonging to Guild Wars 2 are property of ArenaNet and are used only for creative purposes. plz no sue <3
