@@ -1,0 +1,382 @@
+<OverlayData>
+
+	<MarkerCategory name="nxplrtn" DisplayName="Dragon 'Nex'ploration!">
+	<!--===============================================================================-->	
+	<!--==                             End of Dragons                                ==-->
+	<!--===============================================================================-->
+		<MarkerCategory name="seitang" DisplayName="Seitang Map Completion">
+		<!--===============================================================================-->	
+		<!--==                                 Seitang                                   ==-->
+		<!--===============================================================================-->
+			<MarkerCategory name="trails" DisplayName="Trail Type">
+				<MarkerCategory name="mpcmp" DisplayName="Map Comp" iconFile="Data/icons/MapCompTrail.png" />
+				<MarkerCategory name="mastery" DisplayName="Masteries" iconFile="Data/icons/MasteryTrail.png" />
+				<MarkerCategory name="jp" DisplayName="Jumping Puzzles" iconFile="Data/icons/JPtrail.png" />
+				<MarkerCategory name="achieve" DisplayName="Achievement Trails" iconFile="Data/icons/AchieveTrail.png" />
+			</MarkerCategory>
+			<MarkerCategory name="markers" DisplayName="Markers" iconSize="0.5">
+				<MarkerCategory name="pois" DisplayName="Points of Interest" iconFile="Data/icons/poi.png" />
+				<MarkerCategory name="vista" DisplayName="Vistas" iconFile="Data/icons/Vista.png" />
+				<MarkerCategory name="hp" DisplayName="Hero Points" iconFile="Data/icons/hp.png" />
+				<MarkerCategory name="heart" DisplayName="Hearts" iconFile="Data/icons/mp_heart.png" />
+				<MarkerCategory name="mastery" DisplayName="Mastery Points" iconFile="Data/icons/eod_mastery.png" />
+				<!--           Additional and necessary marker inventory -->
+				<MarkerCategory name="etc" DisplayName="Additional Markers" iconSize="0.5">
+					<MarkerCategory name="start" DisplayName="Route Start" iconFile="Data/icons/Start.png" />
+					<MarkerCategory name="end" DisplayName="Route End" iconFile="Data/icons/exit.png" />
+					<MarkerCategory name="achv" DisplayName="Achievements" iconFile="Data/icons/Achievement.png" />
+					<MarkerCategory name="jpg" DisplayName="JP Start" iconFile="Data/icons/jpguide.png" />
+					<MarkerCategory name="skiff" DisplayName="Skiff" iconFile="Data/icons/skiff.png" />
+					<MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/icons/glider.png" />
+					<MarkerCategory name="spr" DisplayName="Springer" iconFile="Data/icons/springer.png" />
+					<MarkerCategory name="1st" DisplayName="1st Route" iconFile="Data/icons/1.png" />
+					<MarkerCategory name="2nd" DisplayName="2nd Route" iconFile="Data/icons/2.png" />
+					<MarkerCategory name="3rd" DisplayName="3rd Route" iconFile="Data/icons/3.png" />
+					<MarkerCategory name="4th" DisplayName="4th Route" iconFile="Data/icons/4.png" />
+					<MarkerCategory name="5th" DisplayName="5th Route" iconFile="Data/icons/5.png" />
+					<MarkerCategory name="arw" DisplayName="Arrow" iconFile="Data/icons/arrow.png" />
+					<MarkerCategory name="crc" DisplayName="Circle" iconFile="Data/icons/circle.png" />
+					<MarkerCategory name="hrt" DisplayName="Heart" iconFile="Data/icons/heart.png" />
+					<MarkerCategory name="sqr" DisplayName="Square" iconFile="Data/icons/square.png" />
+					<MarkerCategory name="arw-wp" DisplayName="Arrow WP" iconFile="Data/icons/WPArrow.png" />
+					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
+					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
+					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
+					
+				</MarkerCategory>
+				
+			</MarkerCategory>
+			
+		</MarkerCategory>
+		
+		<MarkerCategory mapID="1438" name="kaineng" DisplayName="New Kaineng Map Completion">
+		<!--===============================================================================-->	
+		<!--==                                 New Kaineng                               ==-->
+		<!--===============================================================================-->
+			<MarkerCategory name="trails" DisplayName="Trail Type">
+				<MarkerCategory name="mpcmp" DisplayName="Map Comp" iconFile="Data/icons/MapCompTrail.png" />
+				<MarkerCategory name="mastery" DisplayName="Masteries" iconFile="Data/icons/MasteryTrail.png" />
+				<MarkerCategory name="jp" DisplayName="Jumping Puzzles" iconFile="Data/icons/JPtrail.png" />
+				<MarkerCategory name="achieve" DisplayName="Achievement Trails" iconFile="Data/icons/AchieveTrail.png" />
+			</MarkerCategory>
+			<MarkerCategory name="markers" DisplayName="Markers" iconSize="0.5">
+				<MarkerCategory name="pois" DisplayName="Points of Interest" iconFile="Data/icons/poi.png" />
+				<MarkerCategory name="vista" DisplayName="Vistas" iconFile="Data/icons/Vista.png" />
+				<MarkerCategory name="hp" DisplayName="Hero Points" iconFile="Data/icons/hp.png" />
+				<MarkerCategory name="heart" DisplayName="Hearts" iconFile="Data/icons/mp_heart.png" />
+				<MarkerCategory name="mastery" DisplayName="Mastery Points" iconFile="Data/icons/eod_mastery.png" />
+				<!--           Additional and necessary marker inventory -->
+				<MarkerCategory name="etc" DisplayName="Additional Markers" iconSize="0.5">
+					<MarkerCategory name="start" DisplayName="Route Start" iconFile="Data/icons/Start.png" />
+					<MarkerCategory name="end" DisplayName="Route End" iconFile="Data/icons/exit.png" />
+					<MarkerCategory name="achv" DisplayName="Achievements" iconFile="Data/icons/Achievement.png" />
+					<MarkerCategory name="jpg" DisplayName="JP Start" iconFile="Data/icons/jpguide.png" />
+					<MarkerCategory name="skiff" DisplayName="Skiff" iconFile="Data/icons/skiff.png" />
+					<MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/icons/glider.png" />
+					<MarkerCategory name="spr" DisplayName="Springer" iconFile="Data/icons/springer.png" />
+					<MarkerCategory name="1st" DisplayName="1st Route" iconFile="Data/icons/1.png" />
+					<MarkerCategory name="2nd" DisplayName="2nd Route" iconFile="Data/icons/2.png" />
+					<MarkerCategory name="3rd" DisplayName="3rd Route" iconFile="Data/icons/3.png" />
+					<MarkerCategory name="4th" DisplayName="4th Route" iconFile="Data/icons/4.png" />
+					<MarkerCategory name="5th" DisplayName="5th Route" iconFile="Data/icons/5.png" />
+					<MarkerCategory name="arw" DisplayName="Arrow" iconFile="Data/icons/arrow.png" />
+					<MarkerCategory name="crc" DisplayName="Circle" iconFile="Data/icons/circle.png" />
+					<MarkerCategory name="hrt" DisplayName="Heart" iconFile="Data/icons/heart.png" />
+					<MarkerCategory name="sqr" DisplayName="Square" iconFile="Data/icons/square.png" />
+					<MarkerCategory name="arw-wp" DisplayName="Arrow WP" iconFile="Data/icons/WPArrow.png" />
+					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
+					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
+					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
+					
+				</MarkerCategory>
+				
+			</MarkerCategory>
+		
+		</MarkerCategory>
+		
+		<MarkerCategory name="echovald" DisplayName="Echovald Wilds Map Completion">
+		<!--===============================================================================-->	
+		<!--==                                 Echovald Wilds                            ==-->
+		<!--===============================================================================-->
+			<MarkerCategory name="trails" DisplayName="Trail Type">
+				<MarkerCategory name="mpcmp" DisplayName="Map Comp" iconFile="Data/icons/MapCompTrail.png" />
+				<MarkerCategory name="mastery" DisplayName="Masteries" iconFile="Data/icons/MasteryTrail.png" />
+				<MarkerCategory name="jp" DisplayName="Jumping Puzzles" iconFile="Data/icons/JPtrail.png" />
+				<MarkerCategory name="achieve" DisplayName="Achievement Trails" iconFile="Data/icons/AchieveTrail.png" />
+			</MarkerCategory>
+			<MarkerCategory name="markers" DisplayName="Markers" iconSize="0.5">
+				<MarkerCategory name="pois" DisplayName="Points of Interest" iconFile="Data/icons/poi.png" />
+				<MarkerCategory name="vista" DisplayName="Vistas" iconFile="Data/icons/Vista.png" />
+				<MarkerCategory name="hp" DisplayName="Hero Points" iconFile="Data/icons/hp.png" />
+				<MarkerCategory name="heart" DisplayName="Hearts" iconFile="Data/icons/mp_heart.png" />
+				<MarkerCategory name="mastery" DisplayName="Mastery Points" iconFile="Data/icons/eod_mastery.png" />
+				<!--           Additional and necessary marker inventory -->
+				<MarkerCategory name="etc" DisplayName="Additional Markers" iconSize="0.5">
+					<MarkerCategory name="start" DisplayName="Route Start" iconFile="Data/icons/Start.png" />
+					<MarkerCategory name="end" DisplayName="Route End" iconFile="Data/icons/exit.png" />
+					<MarkerCategory name="achv" DisplayName="Achievements" iconFile="Data/icons/Achievement.png" />
+					<MarkerCategory name="jpg" DisplayName="JP Start" iconFile="Data/icons/jpguide.png" />
+					<MarkerCategory name="skiff" DisplayName="Skiff" iconFile="Data/icons/skiff.png" />
+					<MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/icons/glider.png" />
+					<MarkerCategory name="spr" DisplayName="Springer" iconFile="Data/icons/springer.png" />
+					<MarkerCategory name="1st" DisplayName="1st Route" iconFile="Data/icons/1.png" />
+					<MarkerCategory name="2nd" DisplayName="2nd Route" iconFile="Data/icons/2.png" />
+					<MarkerCategory name="3rd" DisplayName="3rd Route" iconFile="Data/icons/3.png" />
+					<MarkerCategory name="4th" DisplayName="4th Route" iconFile="Data/icons/4.png" />
+					<MarkerCategory name="5th" DisplayName="5th Route" iconFile="Data/icons/5.png" />
+					<MarkerCategory name="arw" DisplayName="Arrow" iconFile="Data/icons/arrow.png" />
+					<MarkerCategory name="crc" DisplayName="Circle" iconFile="Data/icons/circle.png" />
+					<MarkerCategory name="hrt" DisplayName="Heart" iconFile="Data/icons/heart.png" />
+					<MarkerCategory name="sqr" DisplayName="Square" iconFile="Data/icons/square.png" />
+					<MarkerCategory name="arw-wp" DisplayName="Arrow WP" iconFile="Data/icons/WPArrow.png" />
+					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
+					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
+					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
+					
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+		
+		<MarkerCategory name="dragons_end" DisplayName="Dragon's End Map Completion">
+		<!--===============================================================================-->	
+		<!--==                                 Dragons End                               ==-->
+		<!--===============================================================================-->
+			<MarkerCategory name="trails" DisplayName="Trail Type">
+				<MarkerCategory name="mpcmp" DisplayName="Map Comp" iconFile="Data/icons/MapCompTrail.png" />
+				<MarkerCategory name="mastery" DisplayName="Masteries" iconFile="Data/icons/MasteryTrail.png" />
+			</MarkerCategory>
+			
+		</MarkerCategory>
+	</MarkerCategory>
+	
+	<POIs>
+		<!--              Seitung POIs                     -->
+		<POI MapID="1442" xpos="-82.8703" ypos="14.2955" zpos="-180.603" type="nxplrtn.seitang.markers.etc.1st" GUID="y+GNeRENX02h+Y65/b+ybQ=="/>
+		<POI MapID="1442" xpos="-71.7507" ypos="13.495" zpos="-149.992" type="nxplrtn.seitang.markers.pois" GUID="m1NxtoWXc0SO6HHtErDH1g=="/>
+		<POI MapID="1442" xpos="-166.33" ypos="59.4952" zpos="-57.2166" type="nxplrtn.seitang.markers.pois" GUID="18C2egnJ/0e536EgmVAwyw=="/>
+		<POI MapID="1442" xpos="-313.491" ypos="94.1802" zpos="-51.9061" type="nxplrtn.seitang.markers.pois" GUID="huA9kYAXxEmw3vyaPuVkyw=="/>
+		<POI MapID="1442" xpos="-446.049" ypos="99.2622" zpos="-147.864" type="nxplrtn.seitang.markers.pois" GUID="Y2nup5YWU0+nH9D0a93GGQ=="/>
+		<POI MapID="1442" xpos="-626.006" ypos="148.042" zpos="-56.9084" type="nxplrtn.seitang.markers.etc.spr" GUID="kafWevQNMUScA1yKAYB+ZQ=="/>
+		<POI MapID="1442" xpos="-637.802" ypos="163.884" zpos="-63.1021" type="nxplrtn.seitang.markers.hp" GUID="i0rgV/SYDUe2QQDil6YenA=="/>
+		<POI MapID="1442" xpos="-681.364" ypos="151.1" zpos="-82.2579" type="nxplrtn.seitang.markers.etc.glider" GUID="IAoosfc1Fk2zZdusTKkdYA=="/>
+		<POI MapID="1442" xpos="-881.202" ypos="135.708" zpos="-50.3289" type="nxplrtn.seitang.markers.pois" GUID="39gn0nRmlUSKIw+BZAKqYg=="/>
+		<POI MapID="1442" xpos="-898.682" ypos="241.069" zpos="-3.37931" type="nxplrtn.seitang.markers.mastery" GUID="GpSyHjgZkU6nDyHZ98CTgQ=="/>
+		<POI MapID="1442" xpos="-900.578" ypos="149.769" zpos="-92.4352" type="nxplrtn.seitang.markers.etc.spr" GUID="QH0wU0l4J0e8YxJDnCRflg=="/>
+		<POI MapID="1442" xpos="-1004.5" ypos="97.9745" zpos="-35.8981" type="nxplrtn.seitang.markers.pois" GUID="Rdv7jQgTZ0i4QnS7S0NTmg=="/>
+		<POI MapID="1442" xpos="-1014.17" ypos="98.0938" zpos="-182.555" type="nxplrtn.seitang.markers.pois" GUID="xNxCkJnIvUGRQGNrxrm9Yg=="/>
+		<POI MapID="1442" xpos="-973.24" ypos="97.6615" zpos="-286.312" type="nxplrtn.seitang.markers.etc.glider" GUID="tTtQfC1V60yVyTQWe2/1Xg=="/>
+		<POI MapID="1442" xpos="-823.281" ypos="35.0257" zpos="-526.341" type="nxplrtn.seitang.markers.pois" GUID="PnxiF8Wi3UWA5XnUnwCu0w=="/>
+		<POI MapID="1442" xpos="-820.832" ypos="34.9701" zpos="-528.18" type="nxplrtn.seitang.markers.etc.arw_wp" GUID="kJlFNf1MWU2ULiGXk2S3yQ=="/>
+		<POI MapID="1442" xpos="-798.634" ypos="35.4654" zpos="-537.721" type="nxplrtn.seitang.markers.mastery" GUID="Ws6m98QtI0KwXIGOcd3gIg=="/>
+		<POI MapID="1442" xpos="-857.28" ypos="115.926" zpos="-117.54" type="nxplrtn.seitang.markers.etc.arw" GUID="B9SecpBnkU2ZpGHIl10m4w=="/>
+		<POI MapID="1442" xpos="-854.55" ypos="115.619" zpos="-124.836" type="nxplrtn.seitang.markers.etc.2nd" GUID="lO2eY07nH0m/2csAmM9Cig=="/>
+		<POI MapID="1442" xpos="-824.772" ypos="94.7513" zpos="-233.526" type="nxplrtn.seitang.markers.etc.spr" GUID="F1cU0mVyaUqwhqOya5AMbA=="/>
+		<POI MapID="1442" xpos="-806.79" ypos="118.336" zpos="-245.026" type="nxplrtn.seitang.markers.vista" GUID="S8WLt4NYy0O8v7prgSwx8g=="/>
+		<POI MapID="1442" xpos="-664.475" ypos="52.9969" zpos="-417.978" type="nxplrtn.seitang.markers.pois" GUID="Ccg+Zub4F0ylL8ZrkCWURg=="/>
+		<POI MapID="1442" xpos="-581.887" ypos="36.9339" zpos="-438.211" type="nxplrtn.seitang.markers.heart" GUID="hdndatwI0U+6K6yPCPmv6Q=="/>
+		<POI MapID="1442" xpos="-518.092" ypos="46.4573" zpos="-373.402" type="nxplrtn.seitang.markers.hp" GUID="33F/Icn58ES6yFKIyr2ctw=="/>
+		<POI MapID="1442" xpos="-505.117" ypos="48.5107" zpos="-453.07" type="nxplrtn.seitang.markers.pois" GUID="ZJhsVEGPK0ewU9Do5umKjQ=="/>
+		<POI MapID="1442" xpos="-659.503" ypos="46.5295" zpos="-508.368" type="nxplrtn.seitang.markers.pois" GUID="x0aiqlZ9I0ewjNtfUYgvEA=="/>
+		<POI MapID="1442" xpos="-592.717" ypos="61.9238" zpos="-555.445" type="nxplrtn.seitang.markers.etc.glider" GUID="VdafT9OjjkGglKOgIY9JBg=="/>
+		<POI MapID="1442" xpos="-433.584" ypos="12.1553" zpos="-619.561" type="nxplrtn.seitang.markers.pois" GUID="3ggVh1QDxkWh2Ol+CrMbww=="/>
+		<POI MapID="1442" xpos="-390.303" ypos="0.062491" zpos="-645.6" type="nxplrtn.seitang.markers.etc.skiff" GUID="Oe0WjNJK10mb/6TDqSM9vw=="/>
+		<POI MapID="1442" xpos="-313.917" ypos="2.95033" zpos="-216.749" type="nxplrtn.seitang.markers.hp" GUID="DzE98g3EZkCHvVjwzU3a2Q=="/>
+		<POI MapID="1442" xpos="-313.34" ypos="2.94873" zpos="-215.11" type="nxplrtn.seitang.markers.etc.crc_wp" GUID="jgEov+dnwEyZeSHK910tCQ=="/>
+		<POI MapID="1442" xpos="-79.5377" ypos="14.2628" zpos="-184.445" type="nxplrtn.seitang.markers.etc.crc" GUID="Z/6L0+WMWUiAN3FFw3JL5g=="/>
+		<POI MapID="1442" xpos="-79.965" ypos="14.6892" zpos="-191.084" type="nxplrtn.seitang.markers.etc.3rd" GUID="FoQ5vf5Oq0K3a2iA43iNYA=="/>
+		<POI MapID="1442" xpos="-98.8825" ypos="48.688" zpos="-326.954" type="nxplrtn.seitang.markers.pois" GUID="By+clzuPmUaP74XTRiFsyw=="/>
+		<POI MapID="1442" xpos="-126.314" ypos="48.7217" zpos="-275.454" type="nxplrtn.seitang.markers.vista" GUID="1T8jZslkN0iPHG90wsYcPw=="/>
+		<POI MapID="1442" xpos="-134.68" ypos="50.9356" zpos="-307.788" type="nxplrtn.seitang.markers.etc.glider" GUID="glaqtKt5wkiuoj5QjONsGw=="/>
+		<POI MapID="1442" xpos="-169.522" ypos="39.895" zpos="-298.432" type="nxplrtn.seitang.markers.pois" GUID="Yx6m1rG3nEWdUdmhxyKYDA=="/>
+		<POI MapID="1442" xpos="-26.7532" ypos="99.1251" zpos="-542.497" type="nxplrtn.seitang.markers.etc.glider" GUID="BQWhO569z06kRY+6onVvyw=="/>
+		<POI MapID="1442" xpos="91.6453" ypos="117.005" zpos="-654.618" type="nxplrtn.seitang.markers.pois" GUID="SEbYAXV8QUGsbn4DxHTnqA=="/>
+		<POI MapID="1442" xpos="98.8711" ypos="114.476" zpos="-643.305" type="nxplrtn.seitang.markers.etc.glider" GUID="ZX4QdU9PWEyULS1wZ7lMeA=="/>
+		<POI MapID="1442" xpos="361.693" ypos="76.0379" zpos="-438.036" type="nxplrtn.seitang.markers.pois" GUID="VQY8DxvlvUOKH2mvHMJaVg=="/>
+		<POI MapID="1442" xpos="208.651" ypos="80.7173" zpos="-358.161" type="nxplrtn.seitang.markers.pois" GUID="IBRdrGztkE2CWYdqic99OQ=="/>
+		<POI MapID="1442" xpos="147.141" ypos="75.5066" zpos="-55.0261" type="nxplrtn.seitang.markers.pois" GUID="0lK1W6sDckaui9utCGlw2w=="/>
+		<POI MapID="1442" xpos="144.79" ypos="75.4987" zpos="-58.588" type="nxplrtn.seitang.markers.mastery" GUID="sbSw1qAlUE+Oq0bE81ggFQ=="/>
+		<POI MapID="1442" xpos="328.43" ypos="60.4638" zpos="-275.85" type="nxplrtn.seitang.markers.pois" GUID="ZmS980lZ9kuC7XYAu+ccVA=="/>
+		<POI MapID="1442" xpos="494.655" ypos="114.19" zpos="-183.97" type="nxplrtn.seitang.markers.hp" GUID="KEPWx9ewRkq7jGcm1UlgiA=="/>
+		<POI MapID="1442" xpos="488.627" ypos="111.752" zpos="-162.982" type="nxplrtn.seitang.markers.etc.glider" GUID="wXMrqY2ockqUU9yBiwWfSQ=="/>
+		<POI MapID="1442" xpos="503.742" ypos="23.5157" zpos="-45.0187" type="nxplrtn.seitang.markers.pois" GUID="EtScZKHxQEWX8gtyWtFKEw=="/>
+		<POI MapID="1442" xpos="898.54" ypos="66.6438" zpos="-44.3981" type="nxplrtn.seitang.markers.pois" GUID="YGk7JsjzZ0KLyvGZFdgKcg=="/>
+		<POI MapID="1442" xpos="993.901" ypos="65.2146" zpos="-342.391" type="nxplrtn.seitang.markers.etc.spr" GUID="z21s82RX+Eee6IuDrjPLaw=="/>
+		<POI MapID="1442" xpos="978.305" ypos="100.378" zpos="-359.806" type="nxplrtn.seitang.markers.hp" GUID="/P7QnX5FTkmYQcHhjfH1XQ=="/>
+		<POI MapID="1442" xpos="879.168" ypos="73.5546" zpos="-377.911" type="nxplrtn.seitang.markers.pois" GUID="kODEBQHaZE+2MeRVRoaXug=="/>
+		<POI MapID="1442" xpos="960.277" ypos="-0.739298" zpos="-584.037" type="nxplrtn.seitang.markers.pois" GUID="79G/iGTXx0GSztzx2OO0Pg=="/>
+		<POI MapID="1442" xpos="944.183" ypos="-0.756972" zpos="-564.863" type="nxplrtn.seitang.markers.etc.skiff" GUID="bJICj8BrGEeTT0gDhS4q1Q=="/>
+		<POI MapID="1442" xpos="995.04" ypos="9.03432" zpos="307.843" type="nxplrtn.seitang.markers.etc.spr" GUID="arEz7ut6REG9eyHjaXoGAQ=="/>
+		<POI MapID="1442" xpos="977.127" ypos="21.0916" zpos="302.11" type="nxplrtn.seitang.markers.vista" GUID="hNXUXcK1Ok20lfeRjOd3/Q=="/>
+		<POI MapID="1442" xpos="891.891" ypos="26.7537" zpos="416.194" type="nxplrtn.seitang.markers.pois" GUID="361rtoKmVUWlmOH8kGgHrg=="/>
+		<POI MapID="1442" xpos="882.492" ypos="18.7257" zpos="218.336" type="nxplrtn.seitang.markers.pois" GUID="X3TrcYZx70OBW4v+l+avQg=="/>
+		<POI MapID="1442" xpos="465.588" ypos="1.9873" zpos="296.844" type="nxplrtn.seitang.markers.etc.spr" GUID="hfXebRV9t0WYTYfmVDzRUg=="/>
+		<POI MapID="1442" xpos="488.79" ypos="4.07472" zpos="225.871" type="nxplrtn.seitang.markers.pois" GUID="0t8IfawlbUaW5aSTFEm9sQ=="/>
+		<POI MapID="1442" xpos="477.808" ypos="82.3857" zpos="316.037" type="nxplrtn.seitang.markers.vista" GUID="y/CGYrONkkmLCPS2Mpdwcg=="/>
+		<POI MapID="1442" xpos="338.003" ypos="198.913" zpos="56.1219" type="nxplrtn.seitang.markers.pois" GUID="PiamLIDHGEC2U11otwi8ZQ=="/>
+		<POI MapID="1442" xpos="118.407" ypos="122.183" zpos="200.395" type="nxplrtn.seitang.markers.pois" GUID="qu4H02d7JkqBtl1Hbl4gJA=="/>
+		<POI MapID="1442" xpos="-33.9979" ypos="139.08" zpos="191.508" type="nxplrtn.seitang.markers.pois" GUID="IzWIn4X4GkqU5db9bY8Nfg=="/>
+		<POI MapID="1442" xpos="-45.9892" ypos="139.072" zpos="168.009" type="nxplrtn.seitang.markers.etc.spr" GUID="Gw8MyhH1C0K3mqb783eG4w=="/>
+		<POI MapID="1442" xpos="-85.3121" ypos="217.657" zpos="87.1157" type="nxplrtn.seitang.markers.hp" GUID="7p6eR7RRsUqZWEO2lIs2tQ=="/>
+		<POI MapID="1442" xpos="-95.7455" ypos="226.432" zpos="66.6861" type="nxplrtn.seitang.markers.etc.spr" GUID="BIztgvh8Bkencx1N9iMBYw=="/>
+		<POI MapID="1442" xpos="-177.41" ypos="0.390332" zpos="159.458" type="nxplrtn.seitang.markers.pois" GUID="iES8nelWHEKEVuqb+FkxdQ=="/>
+		<POI MapID="1442" xpos="-197.697" ypos="0.272644" zpos="160.758" type="nxplrtn.seitang.markers.etc.skiff" GUID="8If07+MzmEiyWclGE307zA=="/>
+		<POI MapID="1442" xpos="-378.772" ypos="39.6401" zpos="547.854" type="nxplrtn.seitang.markers.pois" GUID="ehYJdmVwUEeWLLr6aT7GCQ=="/>
+		<POI MapID="1442" xpos="-606.929" ypos="38.2347" zpos="554.269" type="nxplrtn.seitang.markers.etc.glider" GUID="vQAo7pEMGkyiy6KJLn+5JQ=="/>
+		<POI MapID="1442" xpos="-594.342" ypos="38.4035" zpos="587.752" type="nxplrtn.seitang.markers.pois" GUID="SUEI88t8MUOwpmcjJr1WAQ=="/>
+		<POI MapID="1442" xpos="-911.918" ypos="120.398" zpos="679.823" type="nxplrtn.seitang.markers.pois" GUID="CVVbFTTP/kiK4IIPr10oEQ=="/>
+		<POI MapID="1442" xpos="-959.048" ypos="133.183" zpos="413.342" type="nxplrtn.seitang.markers.pois" GUID="VxXPfOpgJkmd7NxzTitHIw=="/>
+		<POI MapID="1442" xpos="-749.55" ypos="113.096" zpos="335.172" type="nxplrtn.seitang.markers.etc.glider" GUID="gibGRNHWSkmcafilyE4KoA=="/>
+		<POI MapID="1442" xpos="-558.555" ypos="52.2889" zpos="444.378" type="nxplrtn.seitang.markers.vista" GUID="5t/sCEweIkirMm4adBbo7g=="/>
+		<POI MapID="1442" xpos="-452.201" ypos="144.372" zpos="121.915" type="nxplrtn.seitang.markers.pois" GUID="h74ZRqkNxkuUPN8m7asjMw=="/>
+		<POI MapID="1442" xpos="-414.74" ypos="1.02047" zpos="193.818" type="nxplrtn.seitang.markers.hp" GUID="x4mg9I20ZEGKocuu73Zbhg=="/>
+		<POI MapID="1442" xpos="-413.017" ypos="0.827188" zpos="194.52" type="nxplrtn.seitang.markers.etc.hrt_wp" GUID="Ag+2ofDlcEuKrRBkbAjq7Q=="/>
+		<POI MapID="1442" xpos="87.2672" ypos="45.9149" zpos="489.259" type="nxplrtn.seitang.markers.pois" GUID="l/6/ibfMFECGgxwQSsagXA=="/>
+		<POI MapID="1442" xpos="64.2429" ypos="82.8413" zpos="621.875" type="nxplrtn.seitang.markers.pois" GUID="VhU2v3qoMkatThFoHO0zGw=="/>
+		<POI MapID="1442" xpos="4.32132" ypos="84.6889" zpos="622.313" type="nxplrtn.seitang.markers.etc.glider" GUID="Y+TXx7UKyEWtQo+Ew1twAg=="/>
+		<POI MapID="1442" xpos="-161.359" ypos="0.614905" zpos="743.396" type="nxplrtn.seitang.markers.pois" GUID="/r5UWdbS9UGX40/k0epPwA=="/>
+		<POI MapID="1442" xpos="-173.642" ypos="-25.5038" zpos="728.72" type="nxplrtn.seitang.markers.hp" GUID="4mgd9EV8DEC2CqJWLQc9cw=="/>
+		<POI MapID="1442" xpos="-88.9887" ypos="0.517552" zpos="720.289" type="nxplrtn.seitang.markers.etc.skiff" GUID="UAxcROLPN0+yXZuPykbOhw=="/>
+		<POI MapID="1442" xpos="396.126" ypos="36.2948" zpos="465.636" type="nxplrtn.seitang.markers.hp" GUID="rhFO5mB30UK9GTuMFCf02Q=="/>
+		<POI MapID="1442" xpos="417.532" ypos="39.4837" zpos="498.006" type="nxplrtn.seitang.markers.etc.glider" GUID="Ps9V+XW26Ua1/430bADoHg=="/>
+		<POI MapID="1442" xpos="601.198" ypos="2.24365" zpos="655.82" type="nxplrtn.seitang.markers.pois" GUID="Y3JbkYYkwkmCXSlwV3ekZg=="/>
+		<POI MapID="1442" xpos="607.513" ypos="0.139488" zpos="686.922" type="nxplrtn.seitang.markers.etc.skiff" GUID="Gag0QTEHjkSgozRrhumFNA=="/>
+		<POI MapID="1442" xpos="929.322" ypos="13.0673" zpos="707.307" type="nxplrtn.seitang.markers.pois" GUID="EjMZAhDYn0+7oB/Z4U7xUg=="/>
+		<POI MapID="1442" xpos="864.043" ypos="0.430927" zpos="733.455" type="nxplrtn.seitang.markers.etc.skiff" GUID="T2HVEmBn3kSwrQgCwsTZpA=="/>
+		<POI MapID="1442" xpos="497.798" ypos="-1.04387" zpos="832.615" type="nxplrtn.seitang.markers.etc.end" GUID="mMA2tzTHGk+2ey6NZTCDKA=="/>
+		<POI MapID="1442" xpos="73.8557" ypos="112.818" zpos="256.384" type="nxplrtn.seitang.markers.etc.4th" GUID="Ydv14C7wr0OKPCcMQ1v9aw=="/>
+		<POI MapID="1442" xpos="68.8394" ypos="114.024" zpos="251.583" type="nxplrtn.seitang.markers.etc.hrt" GUID="9drJp3JM6ky4b92eJuLWsg=="/>
+		<POI MapID="1442" xpos="-455.867" ypos="47.7971" zpos="-681.447" type="nxplrtn.seitang.markers.mastery" GUID="6QVD2CIprECOBqA9OHkj/Q=="/>
+		<POI MapID="1442" xpos="85.5606" ypos="132.17" zpos="-649.647" type="nxplrtn.seitang.markers.mastery" GUID="FnArkgQ+skOyHqh8/nQbMw=="/>
+		<POI MapID="1442" xpos="169.069" ypos="55.0269" zpos="-515.901" type="nxplrtn.seitang.markers.mastery" GUID="f3wSWox2NEOKjTRECOqtyQ=="/>
+		<POI MapID="1442" xpos="493.638" ypos="26.4865" zpos="-707.249" type="nxplrtn.seitang.markers.mastery" GUID="+7fuG+CQzEyQEwNQ2rqA8g=="/>
+		<POI MapID="1442" xpos="992.888" ypos="-1.28336" zpos="-595.254" type="nxplrtn.seitang.markers.mastery" GUID="EfjHjq36KEqkYsMmBArbdg=="/>
+		<POI MapID="1442" xpos="1090.68" ypos="106.988" zpos="-166.877" type="nxplrtn.seitang.markers.mastery" GUID="hpxJxhM6Wkmb7cm2CvHYYw=="/>
+		<POI MapID="1442" xpos="889.522" ypos="110.083" zpos="419.101" type="nxplrtn.seitang.markers.mastery" GUID="bU/5KL6qpkuT8/u70VvBzQ=="/>
+		<POI MapID="1442" xpos="640.978" ypos="38.1395" zpos="797.849" type="nxplrtn.seitang.markers.mastery" GUID="G9jVt4EZykOc7OhIStFsWQ=="/>
+		<POI MapID="1442" xpos="-62.8252" ypos="177.355" zpos="272.581" type="nxplrtn.seitang.markers.mastery" GUID="oKiV/DXWX0OSt/iBSqGKOQ=="/>
+		<POI MapID="1442" xpos="-285.975" ypos="238.886" zpos="200.253" type="nxplrtn.seitang.markers.mastery" GUID="Z9YuN7CXL0KevEqIG4Jz7Q=="/>
+		<POI MapID="1442" xpos="-911.622" ypos="217.255" zpos="580.159" type="nxplrtn.seitang.markers.mastery" GUID="ZlLSmrNPY0GNiBrcro8LmQ=="/>
+		<POI MapID="1442" xpos="-81.4838" ypos="14.1943" zpos="-181.74" type="nxplrtn.seitang.markers.etc.start" GUID="eZHqzXpBTUmdzdad89EBAA=="/>
+		<POI MapID="1442" xpos="-67.8619" ypos="54.5404" zpos="-379.769" type="nxplrtn.seitang.markers.etc.achv" GUID="pygMpNWaMECxIop7zIs2Vg=="/>
+		<POI MapID="1442" xpos="-669.95" ypos="53.4526" zpos="-432.671" type="nxplrtn.seitang.markers.etc.jpg" GUID="4VW6f/SMX0G2plAsHCgWYg=="/>
+		<POI MapID="1442" xpos="-485.658" ypos="142.96" zpos="144.869" type="nxplrtn.seitang.markers.etc.jpg" GUID="ZTMBZgYmE0eLH/dkkP8k2Q=="/>
+		<!--              Seitung Trails                -->
+		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="up9zvlcLSkeHdg/iSDfYmA==" trailData="Data/icons/seitang_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="5QPSZI/ctU2UgEWfkzLJnA==" trailData="Data/icons/seitang_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="N/OhsTy6tEqsK/mipcsSKQ==" trailData="Data/icons/seitang_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.mastery" GUID="5fCIOg/DF0eQbMB0X2E8nA==" trailData="Data/icons/seitang_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.jp" GUID="KAVVQ5qAzkmeZEm48rxY4Q==" trailData="Data/icons/training_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.jp" GUID="MgjfIIYLoEat9yPqmJJm2g==" trailData="Data/icons/jaya_bluffs_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.achieve" GUID="npUqbFcPwkqKgifmC8D4SA==" trailData="Data/icons/shing_jea_prison_springer.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+	
+	
+	
+	
+	
+	
+		<!--              Kaineng POIS                     -->
+		<POI MapID="1438" xpos="-881.753" ypos="2.61887" zpos="-58.1613" type="nxplrtn.kaineng.markers.pois" GUID="o5cdo3YuBEOoczrA+D84Fg=="/>
+		<POI MapID="1438" xpos="-808.892" ypos="2.61884" zpos="5.0294" type="nxplrtn.kaineng.markers.pois" GUID="zTq7K0CeJku4UHQPUknCCQ=="/>
+		<POI MapID="1438" xpos="-789.878" ypos="3.29439" zpos="5.65667" type="nxplrtn.kaineng.markers.mastery" GUID="8NEVmKDyFkSMnAmak3f8xQ=="/>
+		<POI MapID="1438" xpos="-1039.85" ypos="11.3194" zpos="516.216" type="nxplrtn.kaineng.markers.pois" GUID="byTxmg8cdEejCZPe5mkj/Q=="/>
+		<POI MapID="1438" xpos="-966.127" ypos="133.555" zpos="519.642" type="nxplrtn.kaineng.markers.mastery" GUID="DALY71l4uE+rM+0TfkKXIA=="/>
+		<POI MapID="1438" xpos="-528.637" ypos="1.64169" zpos="653.823" type="nxplrtn.kaineng.markers.pois" GUID="E+LND1F5KECCaRMsUStWAQ=="/>
+		<POI MapID="1438" xpos="-323.661" ypos="260.831" zpos="508.535" type="nxplrtn.kaineng.markers.pois" GUID="7E+Ce5EToECYp9F7tYmWzw=="/>
+		<POI MapID="1438" xpos="-499.383" ypos="217.324" zpos="444.436" type="nxplrtn.kaineng.markers.pois" GUID="xjb3wOvZiUqlYdsSbbxN7Q=="/>
+		<POI MapID="1438" xpos="-576.765" ypos="211.839" zpos="446.039" type="nxplrtn.kaineng.markers.heart" GUID="I3CvSR83JUe6zis4E740+A=="/>
+		<POI MapID="1438" xpos="-507.192" ypos="273.054" zpos="368.785" type="nxplrtn.kaineng.markers.pois" GUID="zeRc1bsx10aKgXt0uBXxOw=="/>
+		<POI MapID="1438" xpos="-681.458" ypos="261.391" zpos="173.889" type="nxplrtn.kaineng.markers.pois" GUID="yd6hIH3jE0ew4KPxnqu5Tg=="/>
+		<POI MapID="1438" xpos="-746.257" ypos="197.593" zpos="164.204" type="nxplrtn.kaineng.markers.vista" GUID="90mjifnj+keakAD2d3W+2A=="/>
+		<POI MapID="1438" xpos="-558.568" ypos="157.989" zpos="0.896482" type="nxplrtn.kaineng.markers.hp" GUID="S3o2AiOyGke/7DtNVE2YdA=="/>
+		<POI MapID="1438" xpos="-502.525" ypos="152.778" zpos="0.164174" type="nxplrtn.kaineng.markers.pois" GUID="V0uOeYX5ikaqVaWc/mhe+g=="/>
+		<POI MapID="1438" xpos="-545.898" ypos="120.158" zpos="187.562" type="nxplrtn.kaineng.markers.hp" GUID="S2TkfhdBKE28tSS255hzwA=="/>
+		<POI MapID="1438" xpos="-408.324" ypos="120.156" zpos="311.981" type="nxplrtn.kaineng.markers.pois" GUID="iCAjLkWm0EmsEviZrgXbKw=="/>
+		<POI MapID="1438" xpos="-321.065" ypos="116.888" zpos="425.564" type="nxplrtn.kaineng.markers.pois" GUID="2rZnUx/C+USnOMN4NnJSjg=="/>
+		<POI MapID="1438" xpos="-52.5865" ypos="2.62435" zpos="-0.201076" type="nxplrtn.kaineng.markers.pois" GUID="aCRE/oxyUEehxSXwBo+EVw=="/>
+		<POI MapID="1438" xpos="58.7816" ypos="18.6469" zpos="105.82" type="nxplrtn.kaineng.markers.pois" GUID="E9Q7BvwcP0KCFEh93dF8Xg=="/>
+		<POI MapID="1438" xpos="-14.8033" ypos="166.457" zpos="-0.635404" type="nxplrtn.kaineng.markers.vista" GUID="Iz0u4C0oy0i4eqIaq41e7g=="/>
+		<POI MapID="1438" xpos="151.341" ypos="197.902" zpos="-19.6869" type="nxplrtn.kaineng.markers.pois" GUID="L2s6v9XzUUmajAAhgInqjA=="/>
+		<POI MapID="1438" xpos="571.815" ypos="94.9631" zpos="78.155" type="nxplrtn.kaineng.markers.pois" GUID="YJHUaGs/2EGZ8oWwW3ABGg=="/>
+		<POI MapID="1438" xpos="298.598" ypos="2.62148" zpos="116.479" type="nxplrtn.kaineng.markers.pois" GUID="4+HXRD/A4UiX3Mk/ZW/mUw=="/>
+		<POI MapID="1438" xpos="233.066" ypos="12.0552" zpos="345.499" type="nxplrtn.kaineng.markers.hp" GUID="v2yKNg9NJUqeWH//Va+B+Q=="/>
+		<POI MapID="1438" xpos="236.574" ypos="2.76417" zpos="443.287" type="nxplrtn.kaineng.markers.pois" GUID="u3mrGCCZXkGDZG9N8tiOMw=="/>
+		<POI MapID="1438" xpos="519.928" ypos="96.1887" zpos="669.96" type="nxplrtn.kaineng.markers.pois" GUID="V+VLMTE5NEexAs/W2YQGnA=="/>
+		<POI MapID="1438" xpos="454.206" ypos="109.507" zpos="380.308" type="nxplrtn.kaineng.markers.hp" GUID="C0e5D8Qv3kq+NONIhdyHlA=="/>
+		<POI MapID="1438" xpos="190.546" ypos="251.426" zpos="1.00376" type="nxplrtn.kaineng.markers.mastery" GUID="oF09To8Tl0eDrDO0lUtCLQ=="/>
+		<POI MapID="1438" xpos="393.915" ypos="250.2" zpos="96.5376" type="nxplrtn.kaineng.markers.mastery" GUID="6nZtTfnmL0WaTStAbQuUMA=="/>
+		<POI MapID="1438" xpos="442.281" ypos="2.62128" zpos="266.04" type="nxplrtn.kaineng.markers.pois" GUID="018/DGEFm06P6abFgThO0A=="/>
+		<POI MapID="1438" xpos="662.087" ypos="94.8452" zpos="37.9057" type="nxplrtn.kaineng.markers.vista" GUID="Sp1fxHRl1EueYszKt2ZRqQ=="/>
+		<POI MapID="1438" xpos="505.379" ypos="2.62597" zpos="33.511" type="nxplrtn.kaineng.markers.pois" GUID="vj/03BiN80aBgD33deCacA=="/>
+		<POI MapID="1438" xpos="-523.499" ypos="6.14245" zpos="-5.24657" type="nxplrtn.kaineng.markers.pois" GUID="7ygBE5VLPkO0y816hCXRNg=="/>
+		<POI MapID="1438" xpos="-500.398" ypos="120.158" zpos="-337.046" type="nxplrtn.kaineng.markers.pois" GUID="x53I8JEqsE6w5GNedQI+rA=="/>
+		<POI MapID="1438" xpos="-632.6" ypos="217.652" zpos="-337.402" type="nxplrtn.kaineng.markers.pois" GUID="U1eeL99unUyg2oyvzSunBA=="/>
+		<POI MapID="1438" xpos="-552.075" ypos="198.026" zpos="-506.558" type="nxplrtn.kaineng.markers.pois" GUID="fSWwpvzV2UWHMgKVCnSUOg=="/>
+		<POI MapID="1438" xpos="-477.734" ypos="269.748" zpos="-456.24" type="nxplrtn.kaineng.markers.hp" GUID="3jHKBQs+7ESLmFmC2ESw3Q=="/>
+		<POI MapID="1438" xpos="-343.587" ypos="207.979" zpos="-563.733" type="nxplrtn.kaineng.markers.pois" GUID="B/hUzyj4PU65nwm7mB407g=="/>
+		<POI MapID="1438" xpos="-296.614" ypos="116.965" zpos="-462.534" type="nxplrtn.kaineng.markers.pois" GUID="dBbPOcrukUugudBF8Gb0ZQ=="/>
+		<POI MapID="1438" xpos="-106.619" ypos="3.00737" zpos="-647.89" type="nxplrtn.kaineng.markers.pois" GUID="Aop9ROkOCUmcYQhHDtqcpQ=="/>
+		<POI MapID="1438" xpos="58.6982" ypos="2.62143" zpos="-525.047" type="nxplrtn.kaineng.markers.pois" GUID="+OtzKlHTQkaOoIcAPVZ/Ig=="/>
+		<POI MapID="1438" xpos="55.4072" ypos="2.62144" zpos="-483.222" type="nxplrtn.kaineng.markers.heart" GUID="iUe2diAr50yvPiaOwU9cvw=="/>
+		<POI MapID="1438" xpos="767.86" ypos="62.4807" zpos="-121.01" type="nxplrtn.kaineng.markers.vista" GUID="MRBl4IiPrEOUwDY+l6LIDQ=="/>
+		<POI MapID="1438" xpos="560.004" ypos="79.6758" zpos="-212.702" type="nxplrtn.kaineng.markers.mastery" GUID="DiV7f61H+k6aH0L7k8Z2Tw=="/>
+		<POI MapID="1438" xpos="641.33" ypos="90.6473" zpos="-397.895" type="nxplrtn.kaineng.markers.mastery" GUID="rt/d/r0Prk68jbHz837ejQ=="/>
+		<POI MapID="1438" xpos="879.582" ypos="17.9407" zpos="-101.514" type="nxplrtn.kaineng.markers.pois" GUID="2cDBSetAYkGFQhPXXEwKdQ=="/>
+		<POI MapID="1438" xpos="871.106" ypos="94.9533" zpos="-185.997" type="nxplrtn.kaineng.markers.pois" GUID="Sm0WqCIdZ0mzxCNY9M5kwg=="/>
+		<POI MapID="1438" xpos="976.21" ypos="68.4116" zpos="-311.365" type="nxplrtn.kaineng.markers.mastery" GUID="Xj0kzYAJEkSKWs0MoAno9Q=="/>
+		<POI MapID="1438" xpos="957.285" ypos="2.6977" zpos="-316.745" type="nxplrtn.kaineng.markers.pois" GUID="eZK9jpcez0yBjGbkDEIN6Q=="/>
+		<POI MapID="1438" xpos="946.929" ypos="2.09876" zpos="-340.972" type="nxplrtn.kaineng.markers.etc.skiff" GUID="5LbA/Ug71ka5YOUZ01gP7Q=="/>
+		<POI MapID="1438" xpos="855.434" ypos="54.4287" zpos="-649.504" type="nxplrtn.kaineng.markers.etc.spr" GUID="mM01O97jU0Kt4TpSIPYTTQ=="/>
+		<POI MapID="1438" xpos="825.127" ypos="55.1602" zpos="-616.013" type="nxplrtn.kaineng.markers.hp" GUID="5yk9C1SaikaH1IiHxQzTEg=="/>
+		<POI MapID="1438" xpos="810.588" ypos="18.2943" zpos="-563.952" type="nxplrtn.kaineng.markers.pois" GUID="tdu8mStDk06btAGHV9SndA=="/>
+		<POI MapID="1438" xpos="635.415" ypos="23.1023" zpos="-589.348" type="nxplrtn.kaineng.markers.pois" GUID="tFIuj9ZAU0eX8JuscnQmEQ=="/>
+		<POI MapID="1438" xpos="591.141" ypos="2.46661" zpos="-403.739" type="nxplrtn.kaineng.markers.pois" GUID="xJZQ+KP2y0SAG/ZWsH7HUQ=="/>
+		<POI MapID="1438" xpos="592.794" ypos="2.59134" zpos="-317.604" type="nxplrtn.kaineng.markers.etc.skiff" GUID="3yr9+OSijEu8ebLXMWV66g=="/>
+		<POI MapID="1438" xpos="583.711" ypos="2.48867" zpos="-6.68755" type="nxplrtn.kaineng.markers.etc.skiff" GUID="L2MDJD358EKrejMUaCVVvw=="/>
+		<POI MapID="1438" xpos="1011.42" ypos="0.473517" zpos="52.7941" type="nxplrtn.kaineng.markers.etc.skiff" GUID="JUCJxEy8PkeTNztbJQBTlQ=="/>
+		<POI MapID="1438" xpos="1042.78" ypos="12.052" zpos="-0.848029" type="nxplrtn.kaineng.markers.hp" GUID="GjqmKzeuzUiYFnaAZ/hdQA=="/>
+		<POI MapID="1438" xpos="863" ypos="182.203" zpos="72.1842" type="nxplrtn.kaineng.markers.mastery" GUID="Cxrc+wJxe0CtvQXadX5vCg=="/>
+		<POI MapID="1438" xpos="1008.03" ypos="-1.06452" zpos="631.202" type="nxplrtn.kaineng.markers.pois" GUID="JkiZaLDJV0C8URA4+iwtUQ=="/>
+		<POI MapID="1438" xpos="938.294" ypos="-54.6498" zpos="582.165" type="nxplrtn.kaineng.markers.pois" GUID="dvfUQLFQuk61WkbzhZ8Zxw=="/>
+		<POI MapID="1438" xpos="944.343" ypos="-66.6905" zpos="613.498" type="nxplrtn.kaineng.markers.mastery" GUID="5ONZ/3ibaUGqcZ1k+E/vOA=="/>
+		<POI MapID="1438" xpos="812.299" ypos="47.2515" zpos="417.825" type="nxplrtn.kaineng.markers.vista" GUID="0dX5aowpD0ynZsO5v1KXzQ=="/>
+		<POI MapID="1438" xpos="933.039" ypos="92.9004" zpos="455.588" type="nxplrtn.kaineng.markers.pois" GUID="MBXHxQ56rEagg5j3+h/X5A=="/>
+		<POI MapID="1438" xpos="880.9" ypos="218.554" zpos="483.672" type="nxplrtn.kaineng.markers.hp" GUID="OAYSupCvVkuS/M5CqdNHfA=="/>
+		<POI MapID="1438" xpos="-948.279" ypos="2.88522" zpos="-195.307" type="nxplrtn.kaineng.markers.etc.1st" GUID="CieUaWXcNUWcVALS40zN6g=="/>
+		<POI MapID="1438" xpos="-814.151" ypos="2.89028" zpos="105.648" type="nxplrtn.kaineng.markers.etc.skiff" GUID="7cDDEPuOL0ybU3rskTfbBw=="/>
+		<POI MapID="1438" xpos="-555.336" ypos="269.9" zpos="326.996" type="nxplrtn.kaineng.markers.etc.spr" GUID="qO2V3D1XZEaTrr6UQQ/OGQ=="/>
+		<POI MapID="1438" xpos="-634.88" ypos="241.944" zpos="225.526" type="nxplrtn.kaineng.markers.etc.spr" GUID="dA9fldbmyEu4sNdNeYslhw=="/>
+		<POI MapID="1438" xpos="231.072" ypos="2.62141" zpos="338.017" type="nxplrtn.kaineng.markers.etc.spr" GUID="enpduPM2/UeuvJGJgDIj5A=="/>
+		<POI MapID="1438" xpos="442.073" ypos="2.62422" zpos="267.115" type="nxplrtn.kaineng.markers.etc.arw_wp" GUID="b08eR7iMekiudbntD1RdfQ=="/>
+		<POI MapID="1438" xpos="578.749" ypos="2.48336" zpos="-0.928333" type="nxplrtn.kaineng.markers.etc.crc" GUID="o+Mt12almk2k1WI3IA839Q=="/>
+		<POI MapID="1438" xpos="580.724" ypos="2.4839" zpos="-3.11835" type="nxplrtn.kaineng.markers.etc.3rd" GUID="u/x+1fliX0CWRgzELSjBUw=="/>
+		<POI MapID="1438" xpos="791.331" ypos="10.0721" zpos="-109.706" type="nxplrtn.kaineng.markers.etc.spr" GUID="FcotFI//uUCw/kMNosdp/w=="/>
+		<POI MapID="1438" xpos="881.706" ypos="218.514" zpos="484.7" type="nxplrtn.seitang.markers.etc.arw_wp" GUID="Unx/IqPQmkCAV7+O3PWVwA=="/>
+		<POI MapID="1438" xpos="809.443" ypos="47.2528" zpos="413.37" type="nxplrtn.kaineng.markers.etc.spr" GUID="+fMIBvpILUy3fWANDzzPZQ=="/>
+		<POI MapID="1438" xpos="914.284" ypos="92.9317" zpos="477.587" type="nxplrtn.kaineng.markers.etc.spr" GUID="2e5I4BKlGUm1FK7+y1r/uQ=="/>
+		<POI MapID="1438" xpos="-882.915" ypos="2.83989" zpos="-129.362" type="nxplrtn.kaineng.markers.etc.arw" GUID="EE3vEBN5XEm8ZxNQiGxkww=="/>
+		<POI MapID="1438" xpos="-880.359" ypos="2.83994" zpos="-126.445" type="nxplrtn.seitang.markers.etc.2nd" GUID="ulpOplAM2k2JP/WQOBryow=="/>
+		<POI MapID="1438" xpos="-464.467" ypos="120.149" zpos="-252.561" type="nxplrtn.kaineng.markers.etc.spr" GUID="VYYywJWTZEOJLodaMCHhAQ=="/>
+		<POI MapID="1438" xpos="-506.164" ypos="223.781" zpos="-382.001" type="nxplrtn.kaineng.markers.etc.spr" GUID="SUt0j3ITW0moJNkglaLbmQ=="/>
+		<POI MapID="1438" xpos="59.322" ypos="2.62149" zpos="-520.166" type="nxplrtn.kaineng.markers.etc.crc_wp" GUID="0qje+N8a5EW+AniUKRIuBA=="/>
+		<POI MapID="1438" xpos="-881.268" ypos="1.18296" zpos="-137.621" type="nxplrtn.kaineng.markers.etc.4th" GUID="UD2Xbhc87k2FDesjWm+WlA=="/>
+		<POI MapID="1438" xpos="-880.88" ypos="1.20798" zpos="-141.376" type="nxplrtn.kaineng.markers.etc.skiff" GUID="HsgXZOkl4UGUyJLc7fK2zg=="/>
+		<POI MapID="1438" xpos="-867.966" ypos="1.62212" zpos="-628.303" type="nxplrtn.kaineng.markers.pois" GUID="HxXQD0fdB0Gy05eZ58YO5A=="/>
+		<POI MapID="1438" xpos="-906.605" ypos="9.03591" zpos="-565.4" type="nxplrtn.kaineng.markers.etc.spr" GUID="EMkku1H09U68V3AOFdYzFA=="/>
+		<POI MapID="1438" xpos="-980.775" ypos="84.8194" zpos="-607.225" type="nxplrtn.kaineng.markers.mastery" GUID="jRhMgFJDk0ClllacRI2BpQ=="/>
+		<POI MapID="1438" xpos="-853.773" ypos="139.089" zpos="-745.761" type="nxplrtn.kaineng.markers.hp" GUID="S9I3KkIiz0eMdu6BPs6vLA=="/>
+		<POI MapID="1438" xpos="-851.103" ypos="139.089" zpos="-746.961" type="nxplrtn.kaineng.markers.etc.end" GUID="tuPxtyAo2UqIWl6tSCR31Q=="/>
+		<POI MapID="1438" xpos="-153.278" ypos="98.721" zpos="0.947962" type="nxplrtn.kaineng.markers.mastery" GUID="e5ZaiioiI0GiAXMs2Y0IUw=="/>
+		<POI MapID="1438" xpos="331.887" ypos="111.191" zpos="4.42791" type="nxplrtn.kaineng.markers.mastery" GUID="/ckbhHXxQEWjzl5EFTw4Yg=="/>
+		<POI MapID="1438" xpos="1038.66" ypos="10.2514" zpos="580.271" type="nxplrtn.kaineng.markers.etc.achv" GUID="qv4O3tNW1EyTBVM+Rcus1w=="/>
+		<POI MapID="1438" xpos="928.762" ypos="92.9365" zpos="663.713" type="nxplrtn.kaineng.markers.etc.jpg" GUID="47ZusIxPLEaqcYEQJeLT9A=="/>
+		<!--              Kaineng Trails                -->
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="j5gzv6m+ukSym01D9fckIQ==" trailData="Data/icons/kaineng_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="zFraMHLSE0CwJvMqMJX7Sg==" trailData="Data/icons/kaineng_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="hMNLuwZtxEOlb7vZ1vrnVQ==" trailData="Data/icons/kaineng_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="moAVWM3xr06hdjstEF7cFA==" trailData="Data/icons/kaineng_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mastery" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/icons/kaineng_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.jp" GUID="gfbpey29gUKIXKvMu/Zqsg==" trailData="Data/icons/kaineng_wtw_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.achieve" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/icons/kaineng_MoU_1.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		
+	</POIs>
+</OverlayData>
