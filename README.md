@@ -2,7 +2,7 @@
 
 I'm currently working on creating a set of trails through all of Cantha to aid in map completion, aquiring mastery points, JP's, as well as a few achievement points.
 
-To get this pack to work, simply drop it into (wherever you have taco located)\Taco\POIs folder and you'll be set to go.
+To get this pack to work, simply drop it into (wherever you have taco located)\TACO\POIs folder and you'll be set to go.
 
 ***
 
