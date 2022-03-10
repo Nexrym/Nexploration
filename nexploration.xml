@@ -42,11 +42,8 @@
 					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
 					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
 					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
-					
 				</MarkerCategory>
-				
 			</MarkerCategory>
-			
 		</MarkerCategory>
 		
 		<MarkerCategory mapID="1438" name="kaineng" DisplayName="New Kaineng Map Completion">
@@ -87,11 +84,8 @@
 					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
 					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
 					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
-					
 				</MarkerCategory>
-				
 			</MarkerCategory>
-		
 		</MarkerCategory>
 		
 		<MarkerCategory name="echovald" DisplayName="Echovald Wilds Map Completion">
@@ -261,13 +255,13 @@
 		<POI MapID="1442" xpos="-669.95" ypos="53.4526" zpos="-432.671" type="nxplrtn.seitang.markers.etc.jpg" GUID="4VW6f/SMX0G2plAsHCgWYg=="/>
 		<POI MapID="1442" xpos="-485.658" ypos="142.96" zpos="144.869" type="nxplrtn.seitang.markers.etc.jpg" GUID="ZTMBZgYmE0eLH/dkkP8k2Q=="/>
 		<!--              Seitung Trails                -->
-		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="up9zvlcLSkeHdg/iSDfYmA==" trailData="Data/icons/seitang_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="5QPSZI/ctU2UgEWfkzLJnA==" trailData="Data/icons/seitang_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="N/OhsTy6tEqsK/mipcsSKQ==" trailData="Data/icons/seitang_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.seitang.trails.mastery" GUID="5fCIOg/DF0eQbMB0X2E8nA==" trailData="Data/icons/seitang_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.seitang.trails.jp" GUID="KAVVQ5qAzkmeZEm48rxY4Q==" trailData="Data/icons/seitang_training_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
-		<Trail type="nxplrtn.seitang.trails.jp" GUID="MgjfIIYLoEat9yPqmJJm2g==" trailData="Data/icons/seitang_jaya_bluffs_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
-		<Trail type="nxplrtn.seitang.trails.achieve" GUID="npUqbFcPwkqKgifmC8D4SA==" trailData="Data/icons/seitang_shing_jea_prison_springer.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="up9zvlcLSkeHdg/iSDfYmA==" trailData="Data/trails/seitang_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="5QPSZI/ctU2UgEWfkzLJnA==" trailData="Data/trails/seitang_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.mpcmp" GUID="N/OhsTy6tEqsK/mipcsSKQ==" trailData="Data/trails/seitang_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.mastery" GUID="5fCIOg/DF0eQbMB0X2E8nA==" trailData="Data/trails/seitang_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.jp" GUID="KAVVQ5qAzkmeZEm48rxY4Q==" trailData="Data/trails/seitang_training_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.jp" GUID="MgjfIIYLoEat9yPqmJJm2g==" trailData="Data/trails/seitang_jaya_bluffs_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+		<Trail type="nxplrtn.seitang.trails.achieve" GUID="npUqbFcPwkqKgifmC8D4SA==" trailData="Data/trails/seitang_shing_jea_prison_springer.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
 	
 	
 	
@@ -370,13 +364,13 @@
 		<POI MapID="1438" xpos="1038.66" ypos="10.2514" zpos="580.271" type="nxplrtn.kaineng.markers.etc.achv" GUID="qv4O3tNW1EyTBVM+Rcus1w=="/>
 		<POI MapID="1438" xpos="928.762" ypos="92.9365" zpos="663.713" type="nxplrtn.kaineng.markers.etc.jpg" GUID="47ZusIxPLEaqcYEQJeLT9A=="/>
 		<!--              Kaineng Trails                -->
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="j5gzv6m+ukSym01D9fckIQ==" trailData="Data/icons/kaineng_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="zFraMHLSE0CwJvMqMJX7Sg==" trailData="Data/icons/kaineng_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="hMNLuwZtxEOlb7vZ1vrnVQ==" trailData="Data/icons/kaineng_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="moAVWM3xr06hdjstEF7cFA==" trailData="Data/icons/kaineng_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mastery" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/icons/kaineng_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.jp" GUID="gfbpey29gUKIXKvMu/Zqsg==" trailData="Data/icons/kaineng_wtw_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.achieve" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/icons/kaineng_MoU_1.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="j5gzv6m+ukSym01D9fckIQ==" trailData="Data/trails/kaineng_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="zFraMHLSE0CwJvMqMJX7Sg==" trailData="Data/trails/kaineng_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="hMNLuwZtxEOlb7vZ1vrnVQ==" trailData="Data/trails/kaineng_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="moAVWM3xr06hdjstEF7cFA==" trailData="Data/trails/kaineng_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mastery" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/trails/kaineng_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.jp" GUID="gfbpey29gUKIXKvMu/Zqsg==" trailData="Data/trails/kaineng_wtw_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.achieve" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/trails/kaineng_MoU_1.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		
 	</POIs>
 </OverlayData>
