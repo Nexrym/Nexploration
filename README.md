@@ -7,20 +7,21 @@ To get this pack to work, simply drop it into (wherever you have taco located)\T
 ***
 
 ### Current status: WIP
+
 Pack is currently WIP and does not yet contain all regions. 
 
--Seitung
+- Seitung
 -- Map Completion Route
 -- Mastery Route
 -- JP Routes
 -- Some Achievement Routes
--Kaineng
+- Kaineng
 -- Map Completion Route
 -- Mastery Route
 -- JP Route
 -- One Achievement Route
--Echovald has not been started
--Dragon's End has not been started
+- Echovald has not been started
+- Dragon's End has not been started
 
 Shoutout to xrandox (xTeh.7146) for creating TehsTrails and having well documented xml's which were heavily studied in preparation for making this pack.
 
