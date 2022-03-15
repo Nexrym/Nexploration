@@ -21,7 +21,7 @@ Pack is currently WIP and does not yet contain all regions.
   - JP Route
   - One Achievement Route
 - Echovald
-  - Map Completion partially complete
+  - Map Completion complete
   - Mastery Route partially complete
   - Some Achievement Routes
 - Dragon's End has not been started
