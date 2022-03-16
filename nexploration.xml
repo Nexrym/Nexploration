@@ -399,12 +399,13 @@
 		<POI MapID="1438" xpos="331.887" ypos="111.191" zpos="4.42791" type="nxplrtn.kaineng.markers.mastery" GUID="/ckbhHXxQEWjzl5EFTw4Yg=="/>
 		<POI MapID="1438" xpos="1038.66" ypos="10.2514" zpos="580.271" type="nxplrtn.kaineng.markers.etc.achv" GUID="qv4O3tNW1EyTBVM+Rcus1w=="/>
 		<POI MapID="1438" xpos="928.762" ypos="92.9365" zpos="663.713" type="nxplrtn.kaineng.markers.etc.jpg" GUID="47ZusIxPLEaqcYEQJeLT9A=="/>
+		<POI MapID="1438" xpos="-993.616" ypos="41.0136" zpos="547.885" type="nxplrtn.kaineng.markers.etc.spr" GUID="W7hm/q10k0SVMPiHfTn03w=="/>
 		<!--              Kaineng Trails                   -->
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="j5gzv6m+ukSym01D9fckIQ==" trailData="Data/trails/kaineng_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="zFraMHLSE0CwJvMqMJX7Sg==" trailData="Data/trails/kaineng_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="hMNLuwZtxEOlb7vZ1vrnVQ==" trailData="Data/trails/kaineng_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="moAVWM3xr06hdjstEF7cFA==" trailData="Data/trails/kaineng_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mastery" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/trails/kaineng_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.kaineng.trails.mastery" GUID="/mkYKHsRU0W/MUzqwpxZWw==" trailData="Data/trails/kaineng_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.kaineng.trails.jp" GUID="gfbpey29gUKIXKvMu/Zqsg==" trailData="Data/trails/kaineng_wtw_jp.trl" texture="Data/icons/JPTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.5" animSpeed="0.5" mapDisplaySize="10" />
 		<Trail type="nxplrtn.kaineng.trails.achieve" GUID="QGYNziye+EiL4VLEc5WouA==" trailData="Data/trails/kaineng_MoU_1.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		
@@ -522,7 +523,13 @@
 		<POI MapID="1452" xpos="671.107" ypos="136.119" zpos="223.035" type="nxplrtn.echovald.markers.etc.meta" GUID="9pP894vrG0uXE39uWFRFXQ=="/>
 		<POI MapID="1452" xpos="572.876" ypos="140.944" zpos="279.964" type="nxplrtn.echovald.markers.etc.meta" GUID="rrF/mRzE3kuPkbSz1ehlUA=="/>
 		<POI MapID="1452" xpos="380.525" ypos="150.74" zpos="181.045" type="nxplrtn.echovald.markers.pois" GUID="2Eog8tj1F0S1S+Woum/OUQ=="/>
-
+		<POI MapID="1452" xpos="1021.41" ypos="85.1066" zpos="-319.565" type="nxplrtn.echovald.markers.mastery" GUID="4xzp6w4yikWwH68GGcsuNg=="/>
+		<POI MapID="1452" xpos="827.098" ypos="188.59" zpos="174.941" type="nxplrtn.echovald.markers.mastery" GUID="YGdw4WbwXECiJ8vaxeiwQg=="/>
+		<POI MapID="1452" xpos="796.594" ypos="158.174" zpos="167.356" type="nxplrtn.echovald.markers.etc.spr" GUID="HyBdjuBt9kK7cA1Gq0Zghw=="/>
+		<POI MapID="1452" xpos="1039.82" ypos="24.9739" zpos="-280.047" type="nxplrtn.echovald.markers.etc.spr" GUID="4pmW6ZL7e02tqll8dZEaBg=="/>
+		<POI MapID="1452" xpos="-320.689" ypos="161.593" zpos="-146.657" type="nxplrtn.echovald.markers.etc.spr" GUID="CYWg5BGZGESfSsIFpaHrnA=="/>
+		<POI MapID="1452" xpos="-334.367" ypos="188.458" zpos="-123.884" type="nxplrtn.echovald.markers.mastery" GUID="WiEoPEXLJE2wZW+P/Kj7OQ=="/>
+		<POI MapID="1452" xpos="-435.932" ypos="146.897" zpos="-365.855" type="nxplrtn.echovald.markers.mastery" GUID="nXF9xi7LCUOj6HJ4o2LFPQ=="/>
 		<!--              Echovald Trails                  -->
 		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="tL41IWuNLEysApvCFlRqQg==" trailData="Data/trails/echovald_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="IfohLvUBdUiuae+GztpAYg==" trailData="Data/trails/echovald_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
@@ -620,12 +627,18 @@
 		<POI MapID="1422" xpos="-356.995" ypos="189.003" zpos="-957.486" type="nxplrtn.dragons_end.markers.pois" GUID="cNn7v+o57E6qkZ7pwttijg=="/>
 		<POI MapID="1422" xpos="-369.321" ypos="186.761" zpos="-969.553" type="nxplrtn.dragons_end.markers.etc.end" GUID="ELvJomSIJ0q4Zv/OoDdC7w=="/>
 		<POI MapID="1422" xpos="-18.6954" ypos="198.409" zpos="-954.025" type="nxplrtn.dragons_end.markers.etc.meta" GUID="MpCubq5f/UCieJvZ8gLeOg=="/>
+		<POI MapID="1422" xpos="-457.42" ypos="158.438" zpos="614.06" type="nxplrtn.dragons_end.markers.mastery" GUID="NT0gMYHE6Uu2UbhY5caQWw=="/>
+		<POI MapID="1422" xpos="13.4988" ypos="171.872" zpos="131.677" type="nxplrtn.dragons_end.markers.mastery" GUID="SEZJmnnyEEqiHopF0DkRcA=="/>
+		<POI MapID="1422" xpos="-182.108" ypos="221.811" zpos="-50.3533" type="nxplrtn.dragons_end.markers.mastery" GUID="wgpo5FoWHkCzgqzh7OnpbQ=="/>
+		<POI MapID="1422" xpos="-392.03" ypos="248.823" zpos="-512.614" type="nxplrtn.dragons_end.markers.mastery" GUID="d82RxG/fLE+gN65Trs7paw=="/>
+		<POI MapID="1422" xpos="191.985" ypos="144.601" zpos="976.405" type="nxplrtn.dragons_end.markers.mastery" GUID="mk92Pe5ruESbGTdNUm4p9A=="/>
 		
 		<!--              Dragon's End Trails             -->
 		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="Onx2z+98Fk2Rdh0y33Q/kg==" trailData="Data/trails/de_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="HgT/JS9c/EmKbyQguMx01w==" trailData="Data/trails/de_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="9s7wC90uN0iNzLkKKttiCA==" trailData="Data/trails/de_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="E0lWbytjO0ewYvmeFy3dcw==" trailData="Data/trails/de_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.dragons_end.trails.mastery" GUID="o41+tGEz006w2wkNHbq/ag==" trailData="Data/trails/de_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		
 	</POIs>
 </OverlayData>
