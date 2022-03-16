@@ -24,6 +24,9 @@ Enjoy~!
 ### TACO Settings
 ![TACO Settings screenshot](./Screenshots/ingame_settings.png)
 
+### BlishHUD Settings
+![BlishHUD Settings screenshot](./Screenshots/ingame_settings_blish.png)
+
 
 
 ***
