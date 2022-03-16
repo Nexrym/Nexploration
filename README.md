@@ -2,15 +2,15 @@
 
 This marker and trail pack is for all y'all looking to map-comp all of Cantha and start building out those sweet new legendaries. I've also created a few extra trails as well, adding in mastery routes, JP's and some achievement routes. I may or may not add more routes in the future, just depends on personal time.
 
-To get this pack to work, simply drop it into (wherever you have taco located)\TACO\POIs folder and you'll be set to go.
-
-For BlishHUD: Install the Pathing Module and place the taco file into \Documents\Guild Wars 2\addons\blishhud\markers
-
 I won't always push a public release unless there have been substantial changes or additions made to the pack, however the most recent upload can be found [here](https://raw.githubusercontent.com/Nexrym/Nexploration/main/Nexploration.taco)
 
 Enjoy~!
 
-***
+## Installation
+
+To get this pack to work, simply drop it into (wherever you have taco located)\TACO\POIs folder and you'll be set to go.
+
+For BlishHUD: Install the Pathing Module and place the taco file into \Documents\Guild Wars 2\addons\blishhud\markers
 
 ## In-game Screenshots
 
