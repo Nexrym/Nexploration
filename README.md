@@ -6,7 +6,7 @@ To get this pack to work, simply drop it into (wherever you have taco located)\T
 
 For BlishHUD: Install the Pathing Module and place the taco file into \Documents\Guild Wars 2\addons\blishhud\markers
 
-I won't always push a public release unless there have been substantial changes or additions made to the pack, however the most recent upload can be found [here](https://github.com/downloads/Nexrym/Nexploration/Nexploration.taco)
+I won't always push a public release unless there have been substantial changes or additions made to the pack, however the most recent upload can be found [here](./Nexploration.taco)
 
 Enjoy~!
 
