@@ -13,16 +13,16 @@ Enjoy~!
 ## In-game Screenshots
 
 ### Overlay
-![TACO Overlay screenshot](./screenshots/ingame_overlay.png)
+![TACO Overlay screenshot](./Screenshots/ingame_overlay.png)
 
 ### Mini-map View
-![Minimap screenshot](./screenshots/ingame_minimap.png)
+![Minimap screenshot](./Screenshots/ingame_minimap.png)
 
 ### Map View
-![Map screenshot](./screenshots/ingame_map.png)
+![Map screenshot](./Screenshots/ingame_map.png)
 
 ### TACO Settings
-![TACO Settings screenshot](./screenshots/ingame_settings.png)
+![TACO Settings screenshot](./Screenshots/ingame_settings.png)
 
 
 
