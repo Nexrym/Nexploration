@@ -624,8 +624,8 @@
 		<!--              Dragon's End Trails             -->
 		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="Onx2z+98Fk2Rdh0y33Q/kg==" trailData="Data/trails/de_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="HgT/JS9c/EmKbyQguMx01w==" trailData="Data/trails/de_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="HgT/JS9c/EmKbyQguMx01w==" trailData="Data/trails/de_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="HgT/JS9c/EmKbyQguMx01w==" trailData="Data/trails/de_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="9s7wC90uN0iNzLkKKttiCA==" trailData="Data/trails/de_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="E0lWbytjO0ewYvmeFy3dcw==" trailData="Data/trails/de_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		
 	</POIs>
 </OverlayData>
