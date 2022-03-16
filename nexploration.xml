@@ -42,6 +42,7 @@
 					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
 					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
 					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
+					<MarkerCategory name="meta" DisplayName="Meta Notif" iconFile="Data/icons/Meta.png" iconsize="1" />
 				</MarkerCategory>
 			</MarkerCategory>
 		</MarkerCategory>
@@ -84,6 +85,7 @@
 					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
 					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
 					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
+					<MarkerCategory name="meta" DisplayName="Meta Notif" iconFile="Data/icons/Meta.png" iconsize="1" />
 				</MarkerCategory>
 			</MarkerCategory>
 		</MarkerCategory>
@@ -126,6 +128,7 @@
 					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
 					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
 					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
+					<MarkerCategory name="meta" DisplayName="Meta Notif" iconFile="Data/icons/Meta.png" iconsize="1" />
 					
 				</MarkerCategory>
 			</MarkerCategory>
@@ -138,8 +141,41 @@
 			<MarkerCategory name="trails" DisplayName="Trail Type">
 				<MarkerCategory name="mpcmp" DisplayName="Map Comp" iconFile="Data/icons/MapCompTrail.png" />
 				<MarkerCategory name="mastery" DisplayName="Masteries" iconFile="Data/icons/MasteryTrail.png" />
+				<MarkerCategory name="jp" DisplayName="Jumping Puzzles" iconFile="Data/icons/JPtrail.png" />
+				<MarkerCategory name="achieve" DisplayName="Achievement Trails" iconFile="Data/icons/AchieveTrail.png" />
 			</MarkerCategory>
-			
+			<MarkerCategory name="markers" DisplayName="Markers" iconSize="0.5">
+				<MarkerCategory name="pois" DisplayName="Points of Interest" iconFile="Data/icons/poi.png" />
+				<MarkerCategory name="vista" DisplayName="Vistas" iconFile="Data/icons/Vista.png" />
+				<MarkerCategory name="hp" DisplayName="Hero Points" iconFile="Data/icons/hp.png" />
+				<MarkerCategory name="heart" DisplayName="Hearts" iconFile="Data/icons/mp_heart.png" />
+				<MarkerCategory name="mastery" DisplayName="Mastery Points" iconFile="Data/icons/eod_mastery.png" />
+				<!--           Additional and necessary marker inventory -->
+				<MarkerCategory name="etc" DisplayName="Additional Markers" iconSize="0.5">
+					<MarkerCategory name="start" DisplayName="Route Start" iconFile="Data/icons/Start.png" />
+					<MarkerCategory name="end" DisplayName="Route End" iconFile="Data/icons/exit.png" />
+					<MarkerCategory name="achv" DisplayName="Achievements" iconFile="Data/icons/Achievement.png" />
+					<MarkerCategory name="jpg" DisplayName="JP Start" iconFile="Data/icons/jpguide.png" />
+					<MarkerCategory name="skiff" DisplayName="Skiff" iconFile="Data/icons/skiff.png" />
+					<MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/icons/glider.png" />
+					<MarkerCategory name="spr" DisplayName="Springer" iconFile="Data/icons/springer.png" />
+					<MarkerCategory name="1st" DisplayName="1st Route" iconFile="Data/icons/1.png" />
+					<MarkerCategory name="2nd" DisplayName="2nd Route" iconFile="Data/icons/2.png" />
+					<MarkerCategory name="3rd" DisplayName="3rd Route" iconFile="Data/icons/3.png" />
+					<MarkerCategory name="4th" DisplayName="4th Route" iconFile="Data/icons/4.png" />
+					<MarkerCategory name="5th" DisplayName="5th Route" iconFile="Data/icons/5.png" />
+					<MarkerCategory name="arw" DisplayName="Arrow" iconFile="Data/icons/arrow.png" />
+					<MarkerCategory name="crc" DisplayName="Circle" iconFile="Data/icons/circle.png" />
+					<MarkerCategory name="hrt" DisplayName="Heart" iconFile="Data/icons/heart.png" />
+					<MarkerCategory name="sqr" DisplayName="Square" iconFile="Data/icons/square.png" />
+					<MarkerCategory name="arw-wp" DisplayName="Arrow WP" iconFile="Data/icons/WPArrow.png" />
+					<MarkerCategory name="crc-wp" DisplayName="Circle WP" iconFile="Data/icons/WPCircle.png" />
+					<MarkerCategory name="hrt-wp" DisplayName="Heart WP" iconFile="Data/icons/WPHeart.png" />
+					<MarkerCategory name="sqr-wp" DisplayName="Square WP" iconFile="Data/icons/WPSquare.png" />
+					<MarkerCategory name="meta" DisplayName="Meta Notif" iconFile="Data/icons/Meta.png" iconsize="1" />
+					
+				</MarkerCategory>
+			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
 	
@@ -483,6 +519,9 @@
 		<POI MapID="1452" xpos="1002.36" ypos="43.7787" zpos="-194.468" type="nxplrtn.echovald.markers.etc.hrt" GUID="VY58P5R5CEKUAW+IQcT7cg=="/>
 		<POI MapID="1452" xpos="1067.7" ypos="31.6407" zpos="-175.51" type="nxplrtn.echovald.markers.pois" GUID="T511Os8RMkWnMt3iOWtPiQ=="/>
 		<POI MapID="1452" xpos="1071.25" ypos="30.6433" zpos="-178.978" type="nxplrtn.echovald.markers.etc.end" GUID="UXSI+L7RIE6wFybE6uvzrw=="/>
+		<POI MapID="1452" xpos="671.107" ypos="136.119" zpos="223.035" type="nxplrtn.echovald.markers.etc.meta" GUID="9pP894vrG0uXE39uWFRFXQ=="/>
+		<POI MapID="1452" xpos="572.876" ypos="140.944" zpos="279.964" type="nxplrtn.echovald.markers.etc.meta" GUID="rrF/mRzE3kuPkbSz1ehlUA=="/>
+		<POI MapID="1452" xpos="380.525" ypos="150.74" zpos="181.045" type="nxplrtn.echovald.markers.pois" GUID="2Eog8tj1F0S1S+Woum/OUQ=="/>
 
 		<!--              Echovald Trails                  -->
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="tL41IWuNLEysApvCFlRqQg==" trailData="Data/trails/echovald_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
@@ -493,6 +532,100 @@
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="yj6B3HkgcEWPuxf9LJ876Q==" trailData="Data/trails/echovald_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="NGLhT5uBt0yRZvQCJq0Urg==" trailData="Data/trails/echovald_ach_distant_ancestry.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="nGXKPFmkMEKHaDWpNRit6Q==" trailData="Data/trails/echovald_ach_MoU_1.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		
+		
+		
+		
+		<!--              Dragon's End POIs               -->
+		<POI MapID="1422" xpos="-200.459" ypos="176.314" zpos="842.169" type="nxplrtn.dragons_end.markers.etc.start" GUID="OGs0ySGuakOZGUAWHbw1vw=="/>
+		<POI MapID="1422" xpos="-201.751" ypos="176.314" zpos="844.863" type="nxplrtn.dragons_end.markers.etc.1st" GUID="yGyscttSlUC02Pl3zPSaog=="/>
+		<POI MapID="1422" xpos="-356.368" ypos="203.303" zpos="925.656" type="nxplrtn.dragons_end.markers.pois" GUID="RjpS9t4UNUuUIQHYsc+vpw=="/>
+		<POI MapID="1422" xpos="-149.319" ypos="204.049" zpos="954.229" type="nxplrtn.dragons_end.markers.pois" GUID="qL1Fvxe5P0ezPu+U0oFGrQ=="/>
+		<POI MapID="1422" xpos="-114.367" ypos="243.767" zpos="980.972" type="nxplrtn.dragons_end.markers.hp" GUID="j3JsoBgOwE+E9hVNxhuEBg=="/>
+		<POI MapID="1422" xpos="-19.3734" ypos="204.998" zpos="868.469" type="nxplrtn.dragons_end.markers.mastery" GUID="a7zBAnXZAE6VyLf/SvlLPg=="/>
+		<POI MapID="1422" xpos="66.1504" ypos="113.794" zpos="795.336" type="nxplrtn.dragons_end.markers.pois" GUID="zuDzocE8nkm6yQFKSoHA0A=="/>
+		<POI MapID="1422" xpos="-136.45" ypos="204.009" zpos="975.362" type="nxplrtn.dragons_end.markers.etc.spr" GUID="7lGq83QS8kawyYe5a+ZQcw=="/>
+		<POI MapID="1422" xpos="190.605" ypos="136.238" zpos="888.725" type="nxplrtn.dragons_end.markers.vista" GUID="iXAiUONRlk2kwmV1jzasYw=="/>
+		<POI MapID="1422" xpos="151.202" ypos="179.769" zpos="939.189" type="nxplrtn.dragons_end.markers.hp" GUID="mht3FP/XaUy6pxTCGVBbww=="/>
+		<POI MapID="1422" xpos="358.658" ypos="87.3468" zpos="1019.93" type="nxplrtn.dragons_end.markers.pois" GUID="zAUVg/c4RUyz6x8hqbaykA=="/>
+		<POI MapID="1422" xpos="484.951" ypos="65.8829" zpos="973.134" type="nxplrtn.dragons_end.markers.pois" GUID="d9VEXOj1HEOji+Vi8gN7lA=="/>
+		<POI MapID="1422" xpos="527.03" ypos="82.3608" zpos="761.913" type="nxplrtn.dragons_end.markers.pois" GUID="2VdMcuAH/UqyEQlEAEhGpA=="/>
+		<POI MapID="1422" xpos="519.996" ypos="81.4977" zpos="585.996" type="nxplrtn.dragons_end.markers.pois" GUID="oOWo8g4zNUqtUePy8wmNbQ=="/>
+		<POI MapID="1422" xpos="589.572" ypos="91.479" zpos="329.546" type="nxplrtn.dragons_end.markers.pois" GUID="rTb27MENrUu96KVH+xB9+A=="/>
+		<POI MapID="1422" xpos="481.17" ypos="10.1603" zpos="330.698" type="nxplrtn.dragons_end.markers.pois" GUID="wtcLLA/nZUaWGz9cYXjT0g=="/>
+		<POI MapID="1422" xpos="338.003" ypos="64.8262" zpos="574.966" type="nxplrtn.dragons_end.markers.pois" GUID="IajqzczWZ0iPzArkTSiSQw=="/>
+		<POI MapID="1422" xpos="323.257" ypos="105.07" zpos="626.197" type="nxplrtn.dragons_end.markers.vista" GUID="0cr30pbah0GksdwpB1ycnw=="/>
+		<POI MapID="1422" xpos="180.077" ypos="-1.05267" zpos="603.471" type="nxplrtn.dragons_end.markers.pois" GUID="LhvIfZ2sbUW9jsxtFArDOA=="/>
+		<POI MapID="1422" xpos="146.536" ypos="5.47081" zpos="907.609" type="nxplrtn.dragons_end.markers.pois" GUID="CKfj2Igz2UiGU/X88b+TVA=="/>
+		<POI MapID="1422" xpos="143.419" ypos="5.47082" zpos="910.412" type="nxplrtn.dragons_end.markers.etc.arw_wp" GUID="f3zQ9uDA30exnGnCSOT5Ow=="/>
+		<POI MapID="1422" xpos="513.279" ypos="54.2009" zpos="443.338" type="nxplrtn.dragons_end.markers.etc.spr" GUID="bziu8exgmkOb/1jvJ25LyQ=="/>
+		<POI MapID="1422" xpos="354.263" ypos="86.0174" zpos="617.653" type="nxplrtn.dragons_end.markers.etc.spr" GUID="oxQgmILjsUOilKXgrhNZ6w=="/>
+		<POI MapID="1422" xpos="-197.615" ypos="176.314" zpos="838.707" type="nxplrtn.dragons_end.markers.etc.arw" GUID="I5i77j8YnkOq0g8X0L5YeQ=="/>
+		<POI MapID="1422" xpos="-9.81638" ypos="34.1811" zpos="541.119" type="nxplrtn.dragons_end.markers.pois" GUID="Yz/8RBefrU+V2GpbOYxHFg=="/>
+		<POI MapID="1422" xpos="-27.4774" ypos="45.731" zpos="385.903" type="nxplrtn.dragons_end.markers.pois" GUID="txhM/agCzkS56FU1eVDmxA=="/>
+		<POI MapID="1422" xpos="103.533" ypos="9.50024" zpos="336.293" type="nxplrtn.dragons_end.markers.pois" GUID="v1PeQPJhCkGUtoeiDU27IA=="/>
+		<POI MapID="1422" xpos="177.998" ypos="53.9586" zpos="345.713" type="nxplrtn.dragons_end.markers.hp" GUID="26mC82MhOEu54KBEj9O5Tw=="/>
+		<POI MapID="1422" xpos="203.414" ypos="53.64" zpos="346.212" type="nxplrtn.dragons_end.markers.etc.spr" GUID="TWWX51r/80eHaMGY+kpHSw=="/>
+		<POI MapID="1422" xpos="185.576" ypos="122.775" zpos="173.157" type="nxplrtn.dragons_end.markers.pois" GUID="1PbmIBr1v061xzjI57zuyQ=="/>
+		<POI MapID="1422" xpos="-194.154" ypos="176.314" zpos="834.264" type="nxplrtn.dragons_end.markers.etc.2nd" GUID="8VLDZgfFG0iEpP0AXNG5sA=="/>
+		<POI MapID="1422" xpos="162.185" ypos="9.77182" zpos="348.934" type="nxplrtn.dragons_end.markers.etc.spr" GUID="dlyctIkI7kSHOp6UPUP3Hg=="/>
+		<POI MapID="1422" xpos="494.944" ypos="108.724" zpos="151.49" type="nxplrtn.dragons_end.markers.pois" GUID="Fyqlof+HW0qOuduPqZ/LHw=="/>
+		<POI MapID="1422" xpos="443.912" ypos="114.169" zpos="49.7952" type="nxplrtn.dragons_end.markers.etc.spr" GUID="HNxPMFhuB0GGKz0yguVR6g=="/>
+		<POI MapID="1422" xpos="494.11" ypos="237.437" zpos="-110.847" type="nxplrtn.dragons_end.markers.vista" GUID="LfMwmNf+T0mLm9xFeId1Pw=="/>
+		<POI MapID="1422" xpos="460.769" ypos="161.014" zpos="-111.712" type="nxplrtn.dragons_end.markers.pois" GUID="5bf6IcYleUyVSymVERvJ2w=="/>
+		<POI MapID="1422" xpos="477.14" ypos="161.014" zpos="-110.347" type="nxplrtn.dragons_end.markers.hp" GUID="3D6+LvbOtEKuY1ToAv+vJQ=="/>
+		<POI MapID="1422" xpos="583.375" ypos="146.381" zpos="-216.88" type="nxplrtn.dragons_end.markers.pois" GUID="S8nkIQ0JBkegImtQwLDogQ=="/>
+		<POI MapID="1422" xpos="455.964" ypos="154.775" zpos="-296.568" type="nxplrtn.dragons_end.markers.pois" GUID="i51ETdCKYUOUp+J8ZZOIeQ=="/>
+		<POI MapID="1422" xpos="502.619" ypos="153.605" zpos="-489.057" type="nxplrtn.dragons_end.markers.etc.spr" GUID="8+qom5/g0U6rBmI/gqJcAw=="/>
+		<POI MapID="1422" xpos="429.848" ypos="172.501" zpos="-761.612" type="nxplrtn.dragons_end.markers.pois" GUID="qVl64yQeyU+FdRph28+9kg=="/>
+		<POI MapID="1422" xpos="554.756" ypos="150.288" zpos="-915.855" type="nxplrtn.dragons_end.markers.pois" GUID="5p54gjuysUyHqgAdAohL6A=="/>
+		<POI MapID="1422" xpos="367.644" ypos="150.796" zpos="-644.098" type="nxplrtn.dragons_end.markers.pois" GUID="ywI5EqoA70uQVvlwoVEObw=="/>
+		<POI MapID="1422" xpos="396.537" ypos="150.957" zpos="-736.341" type="nxplrtn.dragons_end.markers.etc.spr" GUID="1urjAMBKYkauTZgKAW+0ag=="/>
+		<POI MapID="1422" xpos="293.495" ypos="153.624" zpos="-856.014" type="nxplrtn.dragons_end.markers.pois" GUID="EZEEUqog4UWRt5UmEkclnA=="/>
+		<POI MapID="1422" xpos="63.8031" ypos="148.333" zpos="-787.343" type="nxplrtn.dragons_end.markers.pois" GUID="IrL54rAQ6kOJWWm3nlAYRA=="/>
+		<POI MapID="1422" xpos="-14.3732" ypos="201.798" zpos="-990.109" type="nxplrtn.dragons_end.markers.pois" GUID="a33Fj7BOY0igJ5U/t+ZHhw=="/>
+		<POI MapID="1422" xpos="-13.9749" ypos="196.438" zpos="-977.125" type="nxplrtn.dragons_end.markers.etc.spr" GUID="0KF4mWL6GkuR3PhZmyc9FA=="/>
+		<POI MapID="1422" xpos="-13.9285" ypos="240.19" zpos="-986.364" type="nxplrtn.dragons_end.markers.vista" GUID="HKd8mfx7aUKdRPNfeIlPLg=="/>
+		<POI MapID="1422" xpos="-268.975" ypos="147.259" zpos="-652.766" type="nxplrtn.dragons_end.markers.pois" GUID="gVPYEvLgQEed4+ucM46R9A=="/>
+		<POI MapID="1422" xpos="-437.878" ypos="186.995" zpos="-592.546" type="nxplrtn.dragons_end.markers.etc.spr" GUID="GceN09tDJ0uW41oZtYU+RQ=="/>
+		<POI MapID="1422" xpos="-441.582" ypos="186.502" zpos="-520.836" type="nxplrtn.dragons_end.markers.pois" GUID="3Bel8V7QAUGXRYFHOGOyzA=="/>
+		<POI MapID="1422" xpos="-444.609" ypos="166.774" zpos="-249.256" type="nxplrtn.dragons_end.markers.pois" GUID="BGp+K+GVxUeVUfZ3KZvjHw=="/>
+		<POI MapID="1422" xpos="-469.62" ypos="183.205" zpos="-100.662" type="nxplrtn.dragons_end.markers.pois" GUID="eQtlEWLevkO020+x002DHw=="/>
+		<POI MapID="1422" xpos="-424.169" ypos="171.557" zpos="-22.8105" type="nxplrtn.dragons_end.markers.pois" GUID="MW+q5ln05EeCY1u2Pzy1Aw=="/>
+		<POI MapID="1422" xpos="-352.825" ypos="118.933" zpos="179.641" type="nxplrtn.dragons_end.markers.pois" GUID="fNqWAldUi0OJaGmadQ8Ikg=="/>
+		<POI MapID="1422" xpos="19.0274" ypos="169.865" zpos="-53.3188" type="nxplrtn.dragons_end.markers.pois" GUID="w1FrIkiLmUyfEQHJkEj4rA=="/>
+		<POI MapID="1422" xpos="84.2216" ypos="160.952" zpos="-111.257" type="nxplrtn.dragons_end.markers.pois" GUID="qDgf6qHjKE6/EqgDRW5gEQ=="/>
+		<POI MapID="1422" xpos="14.542" ypos="175.46" zpos="-191.321" type="nxplrtn.dragons_end.markers.pois" GUID="PwdrVpnWR02F10Rr4VshXQ=="/>
+		<POI MapID="1422" xpos="109.884" ypos="177.173" zpos="-261.29" type="nxplrtn.dragons_end.markers.hp" GUID="JfArZ6lPFU+fQdzqxU0MaA=="/>
+		<POI MapID="1422" xpos="16.761" ypos="190.283" zpos="-283.901" type="nxplrtn.dragons_end.markers.pois" GUID="f2pAYql7NEizeJJhdmH0hw=="/>
+		<POI MapID="1422" xpos="-10.8706" ypos="245.534" zpos="-317.404" type="nxplrtn.dragons_end.markers.hp" GUID="lq9WnyfPZUKsxOrcD7clOg=="/>
+		<POI MapID="1422" xpos="207.818" ypos="307.464" zpos="-460.17" type="nxplrtn.dragons_end.markers.pois" GUID="Byw+GvNGw0Cs8yICNIM+Ww=="/>
+		<POI MapID="1422" xpos="34.697" ypos="391.714" zpos="-509.422" type="nxplrtn.dragons_end.markers.pois" GUID="q7vW0t2iWkCC69Me7jiYpA=="/>
+		<POI MapID="1422" xpos="-163.06" ypos="342.062" zpos="148.881" type="nxplrtn.dragons_end.markers.pois" GUID="0rfBT3bgckeS3vv+pq5NkA=="/>
+		<POI MapID="1422" xpos="-319.222" ypos="120.078" zpos="160.296" type="nxplrtn.dragons_end.markers.etc.spr" GUID="SwwscI05Yk2rXAk391tzFA=="/>
+		<POI MapID="1422" xpos="-282.904" ypos="132.816" zpos="360.779" type="nxplrtn.dragons_end.markers.pois" GUID="vvkiN4uiYEGxwMf37amqGw=="/>
+		<POI MapID="1422" xpos="-277.031" ypos="132.816" zpos="360.852" type="nxplrtn.dragons_end.markers.vista" GUID="1noMJREP6E2RgjTeCvqVXA=="/>
+		<POI MapID="1422" xpos="0.198624" ypos="190.283" zpos="-267.457" type="nxplrtn.dragons_end.markers.etc.spr" GUID="9xb2pSV77kG9+pdXF16iBQ=="/>
+		<POI MapID="1422" xpos="100.276" ypos="176.812" zpos="-222.711" type="nxplrtn.dragons_end.markers.etc.spr" GUID="v4Ess3RCPEGinC5jJmMLmg=="/>
+		<POI MapID="1422" xpos="28.1141" ypos="391.714" zpos="-510.993" type="nxplrtn.dragons_end.markers.etc.arw_wp" GUID="HsvPpOzvA0u6hI9Me+DiEw=="/>
+		<POI MapID="1422" xpos="-203.663" ypos="176.314" zpos="833.117" type="nxplrtn.dragons_end.markers.etc.3rd" GUID="wEeqfz3x10uHDzHB1qrawA=="/>
+		<POI MapID="1422" xpos="-435.634" ypos="156.482" zpos="695.977" type="nxplrtn.dragons_end.markers.pois" GUID="qVUk/q9kdU6e83BeX6VLtA=="/>
+		<POI MapID="1422" xpos="-361.17" ypos="156.031" zpos="562.002" type="nxplrtn.dragons_end.markers.pois" GUID="McEzYQn9FUuXR+vqMt+vAw=="/>
+		<POI MapID="1422" xpos="-244.761" ypos="-141.389" zpos="359.98" type="nxplrtn.dragons_end.markers.pois" GUID="Uf86nUdXHEapZuDqS+O1yQ=="/>
+		<POI MapID="1422" xpos="-88.4385" ypos="-1.05634" zpos="-287.845" type="nxplrtn.dragons_end.markers.pois" GUID="10RyloJAZUW78pF9ql+LlA=="/>
+		<POI MapID="1422" xpos="-93.3324" ypos="5.54681" zpos="-747.348" type="nxplrtn.dragons_end.markers.pois" GUID="/+G9rm6ZJUW6pRBZjHYoww=="/>
+		<POI MapID="1422" xpos="-88.9769" ypos="6.8437" zpos="-750.228" type="nxplrtn.dragons_end.markers.etc.crc_wp" GUID="WpkYYfobXUGncykOqfIvzA=="/>
+		<POI MapID="1422" xpos="-14.6345" ypos="198.329" zpos="-951.435" type="nxplrtn.dragons_end.markers.etc.crc" GUID="uFMb1/mt3Uqib99z2Ae+0g=="/>
+		<POI MapID="1422" xpos="-18.6751" ypos="198.329" zpos="-952.654" type="nxplrtn.dragons_end.markers.etc.4th" GUID="8I3Qri+A7kuDhHpnv+RPQw=="/>
+		<POI MapID="1422" xpos="-356.995" ypos="189.003" zpos="-957.486" type="nxplrtn.dragons_end.markers.pois" GUID="cNn7v+o57E6qkZ7pwttijg=="/>
+		<POI MapID="1422" xpos="-369.321" ypos="186.761" zpos="-969.553" type="nxplrtn.dragons_end.markers.etc.end" GUID="ELvJomSIJ0q4Zv/OoDdC7w=="/>
+		<POI MapID="1422" xpos="-18.6954" ypos="198.409" zpos="-954.025" type="nxplrtn.dragons_end.markers.etc.meta" GUID="MpCubq5f/UCieJvZ8gLeOg=="/>
+		
+		<!--              Dragon's End Trails             -->
+		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="Onx2z+98Fk2Rdh0y33Q/kg==" trailData="Data/trails/de_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="HgT/JS9c/EmKbyQguMx01w==" trailData="Data/trails/de_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="HgT/JS9c/EmKbyQguMx01w==" trailData="Data/trails/de_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.dragons_end.trails.mpcmp" GUID="HgT/JS9c/EmKbyQguMx01w==" trailData="Data/trails/de_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="3000" fadeFar="4000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		
 	</POIs>
 </OverlayData>

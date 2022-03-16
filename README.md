@@ -1,14 +1,18 @@
 # Welcome to End of Dragons 'Nex'ploration! 
 
-I'm currently working on creating a set of trails through all of Cantha to aid in map completion, aquiring mastery points, JP's, as well as a few achievement points.
+This marker and trail pack is for all y'all looking to map-comp all of Cantha and start building out those sweet new legendaries. I've also created a few extra trails as well, adding in mastery routes, JP's and some achievement routes. I may or may not add more routes in the future, just depends on personal time.
 
 To get this pack to work, simply drop it into (wherever you have taco located)\TACO\POIs folder and you'll be set to go.
 
+For BlishHUD: Install the Pathing Module and place the taco file into \Documents\Guild Wars 2\addons\blishhud\markers
+
+Enjoy~!
+
 ***
 
-### Current status: WIP
+### Current status: Map-Comp'd
 
-Pack is currently WIP and does not yet contain all regions. 
+Pack contains total map completion for Cantha as well as some additional routes.
 
 - Seitung
   - Map Completion Route
@@ -21,10 +25,11 @@ Pack is currently WIP and does not yet contain all regions.
   - JP Route
   - One Achievement Route
 - Echovald
-  - Map Completion complete
+  - Map Completion Route
   - Mastery Route partially complete
   - Some Achievement Routes
-- Dragon's End has not been started
+- Dragon's End
+  - Map Completion Route
 
 ***
 
