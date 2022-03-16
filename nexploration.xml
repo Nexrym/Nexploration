@@ -508,7 +508,7 @@
 		<POI MapID="1452" xpos="-326.779" ypos="177.285" zpos="613.851" type="nxplrtn.echovald.markers.etc.crc_wp" GUID="g92EHlCbqUqtpyRYrub1hg=="/>
 		<POI MapID="1452" xpos="-328.63" ypos="177.285" zpos="613.823" type="nxplrtn.echovald.markers.etc.arw_wp" GUID="dPgUyhdWg0CYbgLi+cn+FQ=="/>
 		<POI MapID="1452" xpos="-324.75" ypos="177.33" zpos="613.49" type="nxplrtn.echovald.markers.etc.hrt_wp" GUID="qnbj/WaOYEmL9mcJTgsW0Q=="/>
-		<POI MapID="1452" xpos="-328.406" ypos="177.61" zpos="622.429" type="nxplrtn.seitang.markers.etc.1st" GUID="Fd/u5ur6rUWz1FUN0IEKSA=="/>
+		<POI MapID="1452" xpos="-328.406" ypos="177.61" zpos="622.429" type="nxplrtn.echovald.markers.etc.1st" GUID="Fd/u5ur6rUWz1FUN0IEKSA=="/>
 		<POI MapID="1452" xpos="-326.388" ypos="177.645" zpos="622.55" type="nxplrtn.echovald.markers.etc.2nd" GUID="+j9dd69QbE68YUdZ7iEXeQ=="/>
 		<POI MapID="1452" xpos="-324.642" ypos="178.032" zpos="622.659" type="nxplrtn.echovald.markers.etc.3rd" GUID="sXrpJjhizEyVAmzbCV5IRQ=="/>
 		<POI MapID="1452" xpos="-322.592" ypos="178.455" zpos="622.716" type="nxplrtn.echovald.markers.etc.4th" GUID="OFt/cSlJjkmkX+RdwjY6cQ=="/>
@@ -524,14 +524,14 @@
 		<POI MapID="1452" xpos="380.525" ypos="150.74" zpos="181.045" type="nxplrtn.echovald.markers.pois" GUID="2Eog8tj1F0S1S+Woum/OUQ=="/>
 
 		<!--              Echovald Trails                  -->
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="tL41IWuNLEysApvCFlRqQg==" trailData="Data/trails/echovald_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="IfohLvUBdUiuae+GztpAYg==" trailData="Data/trails/echovald_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="f0WGxNTTekaxJ3/UlcWC/A==" trailData="Data/trails/echovald_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="BjGd/xHAjEi5HJ7JI+1imA==" trailData="Data/trails/echovald_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="CRouLieBiE2lJujsLwZ5tA==" trailData="Data/trails/echovald_arborstone.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="yj6B3HkgcEWPuxf9LJ876Q==" trailData="Data/trails/echovald_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="NGLhT5uBt0yRZvQCJq0Urg==" trailData="Data/trails/echovald_ach_distant_ancestry.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
-		<Trail type="nxplrtn.kaineng.trails.mpcmp" GUID="nGXKPFmkMEKHaDWpNRit6Q==" trailData="Data/trails/echovald_ach_MoU_1.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="tL41IWuNLEysApvCFlRqQg==" trailData="Data/trails/echovald_1.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="IfohLvUBdUiuae+GztpAYg==" trailData="Data/trails/echovald_2.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="f0WGxNTTekaxJ3/UlcWC/A==" trailData="Data/trails/echovald_3.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="BjGd/xHAjEi5HJ7JI+1imA==" trailData="Data/trails/echovald_4.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="CRouLieBiE2lJujsLwZ5tA==" trailData="Data/trails/echovald_arborstone.trl" texture="Data/icons/MapCompTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="yj6B3HkgcEWPuxf9LJ876Q==" trailData="Data/trails/echovald_mastery.trl" texture="Data/icons/MasteryTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="NGLhT5uBt0yRZvQCJq0Urg==" trailData="Data/trails/echovald_ach_distant_ancestry.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
+		<Trail type="nxplrtn.echovald.trails.mpcmp" GUID="nGXKPFmkMEKHaDWpNRit6Q==" trailData="Data/trails/echovald_ach_MoU_1.trl" texture="Data/icons/AchieveTrail.png" alpha="0.8" fadeNear="4000" fadeFar="5000" trailScale="0.8" animSpeed="1" mapDisplaySize="10" />
 		
 		
 		
