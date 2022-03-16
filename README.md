@@ -10,7 +10,25 @@ Enjoy~!
 
 ***
 
-### Current status: Map-Comp'd
+## In-game Screenshots
+
+### Overlay
+![TACO Overlay screenshot](./screenshots/ingame_overlay.png)
+
+### Mini-map View
+![Minimap screenshot](./screenshots/ingame_minimap.png)
+
+### Map View
+![Map screenshot](./screenshots/ingame_map.png)
+
+### TACO Settings
+![TACO Settings screenshot](./screenshots/ingame_settings.png)
+
+
+
+***
+
+## Current status: Map-Comp'd
 
 Pack contains total map completion for Cantha as well as some additional routes.
 
@@ -33,7 +51,7 @@ Pack contains total map completion for Cantha as well as some additional routes.
 
 ***
 
-### Credits
+## Credits
 
 Made by Nex.2456
 
